@@ -1,0 +1,1201 @@
+Unique ID,Marriage Duration (Years),Age at Marriage,Marriage Type,Education Level,Income Level (INR per month),Caste/Religion,Urban/Rural,Family Involvement,Children,Divorce Status
+MD1,39,29,Love,Secondary,113464,Hindu,Rural,Moderate,2,No
+MD2,29,34,Arranged,No Education,18682,Jain,Rural,Moderate,0,Yes
+MD3,15,34,Love,No Education,159455,Muslim,Urban,Moderate,4,Yes
+MD4,8,27,Arranged,Postgraduate,63160,Jain,Urban,High,1,Yes
+MD5,21,34,Love,Secondary,28666,Jain,Urban,High,1,Yes
+MD6,39,32,Arranged,Graduate,63817,Hindu,Rural,Moderate,1,No
+MD7,19,29,Arranged,Secondary,96198,Christian,Rural,Moderate,0,No
+MD8,23,33,Arranged,Postgraduate,170714,Jain,Urban,High,3,No
+MD9,11,25,Arranged,No Education,46830,Other,Urban,High,2,Yes
+MD10,11,34,Arranged,Postgraduate,15234,Jain,Rural,High,0,Yes
+MD11,24,22,Arranged,Primary,62616,Christian,Rural,Moderate,1,No
+MD12,36,33,Love,Primary,14221,Hindu,Urban,Low,0,No
+MD13,24,23,Arranged,Graduate,147482,Christian,Rural,Low,0,No
+MD14,3,25,Love,Postgraduate,197485,Hindu,Urban,Low,0,Yes
+MD15,22,29,Love,Graduate,6051,Muslim,Urban,Low,3,No
+MD16,2,32,Love,Graduate,115529,Hindu,Urban,Moderate,4,No
+MD17,24,26,Love,Primary,81918,Muslim,Rural,Low,2,No
+MD18,30,30,Love,Graduate,83116,Muslim,Rural,High,3,No
+MD19,38,32,Arranged,Primary,127226,Hindu,Rural,High,3,Yes
+MD20,2,27,Arranged,No Education,192635,Other,Rural,Low,4,No
+MD21,21,33,Arranged,Postgraduate,49757,Sikh,Urban,High,3,Yes
+MD22,33,24,Love,Graduate,126008,Hindu,Rural,Moderate,0,No
+MD23,12,34,Arranged,Primary,187329,Jain,Urban,Low,0,Yes
+MD24,22,24,Arranged,Secondary,136379,Other,Urban,Low,1,Yes
+MD25,25,31,Arranged,Graduate,61889,Other,Urban,Moderate,3,No
+MD26,27,32,Arranged,No Education,40944,Jain,Rural,High,1,No
+MD27,28,24,Arranged,No Education,104555,Sikh,Urban,Moderate,2,Yes
+MD28,16,26,Love,Secondary,43134,Other,Urban,Moderate,0,No
+MD29,15,33,Arranged,Primary,163395,Muslim,Rural,High,2,Yes
+MD30,3,25,Love,Graduate,30954,Sikh,Urban,Moderate,4,Yes
+MD31,37,24,Love,Primary,191093,Jain,Rural,High,0,Yes
+MD32,7,20,Love,No Education,94959,Sikh,Rural,High,2,No
+MD33,21,27,Love,Primary,9992,Hindu,Rural,Moderate,4,No
+MD34,9,24,Love,No Education,6961,Sikh,Urban,High,2,No
+MD35,39,34,Arranged,Primary,17497,Muslim,Rural,Moderate,4,No
+MD36,18,31,Arranged,Secondary,168623,Hindu,Rural,High,4,Yes
+MD37,4,20,Arranged,Postgraduate,191827,Christian,Rural,Low,0,Yes
+MD38,25,29,Love,Secondary,18255,Jain,Rural,High,1,No
+MD39,14,30,Arranged,Secondary,140639,Jain,Urban,High,4,Yes
+MD40,9,19,Arranged,Postgraduate,53847,Sikh,Rural,Moderate,4,No
+MD41,26,20,Love,Postgraduate,184075,Other,Urban,High,0,No
+MD42,2,22,Love,Graduate,25389,Hindu,Rural,Low,1,Yes
+MD43,20,28,Love,Graduate,180595,Christian,Urban,Low,3,Yes
+MD44,28,25,Love,Secondary,128802,Hindu,Rural,High,3,No
+MD45,7,29,Arranged,Secondary,66576,Jain,Urban,High,1,Yes
+MD46,8,24,Love,No Education,48919,Hindu,Rural,Low,2,No
+MD47,35,32,Love,No Education,8358,Christian,Urban,Moderate,0,No
+MD48,14,34,Arranged,Graduate,93535,Other,Urban,Low,1,No
+MD49,17,21,Arranged,Graduate,110982,Sikh,Urban,Low,3,Yes
+MD50,36,30,Love,No Education,10698,Muslim,Rural,High,4,No
+MD51,4,18,Arranged,No Education,71809,Hindu,Urban,High,3,No
+MD52,2,33,Love,Primary,98079,Muslim,Urban,Low,4,No
+MD53,6,30,Love,Primary,60805,Jain,Urban,Moderate,0,Yes
+MD54,4,27,Arranged,No Education,167421,Sikh,Urban,Low,4,No
+MD55,29,29,Arranged,Primary,186320,Sikh,Rural,Low,1,No
+MD56,18,19,Love,Postgraduate,80033,Hindu,Urban,Moderate,4,No
+MD57,26,20,Love,Graduate,103239,Other,Urban,Low,2,No
+MD58,34,27,Love,Graduate,135407,Sikh,Urban,Low,1,Yes
+MD59,10,19,Arranged,No Education,49041,Hindu,Rural,High,0,No
+MD60,36,30,Love,Secondary,36954,Hindu,Urban,Moderate,1,Yes
+MD61,14,30,Love,No Education,13002,Muslim,Urban,High,2,No
+MD62,31,20,Love,Primary,74783,Sikh,Urban,High,0,Yes
+MD63,15,24,Love,Secondary,112524,Hindu,Urban,Moderate,3,No
+MD64,8,31,Love,Primary,129857,Muslim,Rural,Moderate,2,No
+MD65,14,34,Arranged,Postgraduate,24738,Christian,Urban,Low,0,No
+MD66,23,29,Love,Primary,15703,Muslim,Urban,High,4,Yes
+MD67,21,33,Love,Postgraduate,118776,Muslim,Rural,Moderate,1,Yes
+MD68,16,29,Love,Postgraduate,185494,Hindu,Rural,High,0,No
+MD69,18,32,Love,Primary,197971,Jain,Rural,High,1,Yes
+MD70,24,27,Arranged,Primary,148464,Jain,Urban,Moderate,4,No
+MD71,26,24,Arranged,Postgraduate,49724,Other,Rural,Low,0,No
+MD72,25,22,Arranged,Secondary,37299,Jain,Urban,High,3,No
+MD73,29,18,Love,Postgraduate,20641,Muslim,Rural,Moderate,2,No
+MD74,15,34,Love,Graduate,84534,Other,Urban,Low,0,Yes
+MD75,1,20,Arranged,Postgraduate,11305,Hindu,Rural,High,4,No
+MD76,25,30,Arranged,Secondary,23782,Sikh,Urban,Moderate,0,No
+MD77,7,31,Arranged,Graduate,83257,Muslim,Rural,High,1,No
+MD78,9,21,Love,No Education,82963,Muslim,Urban,Moderate,0,No
+MD79,24,22,Love,No Education,126987,Other,Urban,Moderate,3,No
+MD80,1,33,Arranged,Secondary,156638,Hindu,Urban,High,0,No
+MD81,8,18,Arranged,Postgraduate,129591,Christian,Urban,High,2,No
+MD82,24,31,Arranged,Primary,72766,Muslim,Urban,Moderate,0,No
+MD83,11,32,Love,Secondary,11511,Christian,Urban,Low,1,No
+MD84,17,26,Love,Graduate,119816,Christian,Urban,High,0,No
+MD85,8,32,Love,Graduate,162249,Jain,Urban,Moderate,3,No
+MD86,35,34,Arranged,No Education,9765,Hindu,Rural,Moderate,4,No
+MD87,35,21,Arranged,Graduate,156426,Christian,Urban,Low,0,No
+MD88,33,29,Love,Secondary,28929,Hindu,Urban,Low,0,No
+MD89,5,22,Arranged,Graduate,164892,Jain,Rural,Low,2,No
+MD90,39,22,Love,Secondary,116576,Hindu,Urban,High,3,No
+MD91,28,28,Arranged,Primary,165595,Muslim,Rural,Moderate,4,No
+MD92,7,23,Arranged,No Education,76088,Christian,Urban,Moderate,1,No
+MD93,9,24,Arranged,Graduate,82525,Hindu,Rural,Moderate,0,No
+MD94,8,31,Arranged,Secondary,18780,Sikh,Rural,Low,4,Yes
+MD95,12,28,Love,Postgraduate,11589,Hindu,Urban,Moderate,1,No
+MD96,34,30,Arranged,No Education,170884,Christian,Rural,High,3,No
+MD97,33,19,Love,Primary,98664,Jain,Urban,Low,3,Yes
+MD98,23,24,Love,Secondary,182011,Jain,Urban,Low,4,No
+MD99,24,21,Love,Primary,187565,Christian,Urban,Low,1,Yes
+MD100,37,25,Arranged,Primary,109188,Muslim,Urban,Low,3,No
+MD101,35,30,Love,Graduate,98326,Muslim,Rural,High,4,Yes
+MD102,22,31,Love,Graduate,45953,Jain,Urban,Moderate,3,No
+MD103,27,27,Love,Secondary,70785,Jain,Rural,High,3,No
+MD104,35,28,Arranged,Postgraduate,24309,Christian,Rural,Moderate,3,Yes
+MD105,1,19,Arranged,Secondary,59195,Muslim,Urban,High,2,No
+MD106,35,26,Love,Postgraduate,30901,Jain,Urban,Low,1,No
+MD107,37,34,Arranged,Primary,159648,Muslim,Urban,Low,4,Yes
+MD108,14,20,Love,No Education,167580,Jain,Urban,High,4,No
+MD109,3,23,Love,Secondary,30464,Hindu,Rural,High,1,No
+MD110,1,22,Arranged,Secondary,196353,Sikh,Urban,Moderate,1,No
+MD111,5,22,Love,Postgraduate,21260,Other,Rural,High,1,No
+MD112,26,32,Arranged,Primary,129997,Hindu,Urban,High,1,Yes
+MD113,14,34,Arranged,Primary,40440,Other,Urban,Moderate,0,Yes
+MD114,39,26,Love,Postgraduate,100082,Jain,Urban,Moderate,4,No
+MD115,27,20,Arranged,Primary,110583,Sikh,Urban,Moderate,0,No
+MD116,9,34,Arranged,Graduate,61683,Sikh,Rural,High,3,No
+MD117,15,27,Love,No Education,129206,Jain,Rural,Moderate,3,No
+MD118,15,20,Love,Secondary,177502,Jain,Urban,Low,4,Yes
+MD119,26,34,Arranged,No Education,138059,Muslim,Rural,Low,3,No
+MD120,13,20,Arranged,Secondary,161177,Jain,Rural,Low,1,No
+MD121,32,20,Love,Graduate,83484,Christian,Urban,High,0,Yes
+MD122,39,23,Arranged,Primary,149098,Jain,Urban,Low,1,Yes
+MD123,32,30,Arranged,Postgraduate,73309,Christian,Rural,High,3,No
+MD124,4,32,Arranged,Graduate,50927,Jain,Rural,High,0,No
+MD125,30,26,Arranged,No Education,193607,Muslim,Rural,Low,1,No
+MD126,37,21,Arranged,Postgraduate,47946,Christian,Rural,Moderate,4,Yes
+MD127,23,31,Arranged,Primary,131503,Hindu,Urban,High,1,No
+MD128,39,22,Arranged,Graduate,192633,Christian,Urban,Low,3,No
+MD129,15,19,Love,Postgraduate,146449,Muslim,Rural,High,0,No
+MD130,29,28,Love,Graduate,58592,Other,Urban,Moderate,4,No
+MD131,36,26,Love,Graduate,143419,Christian,Rural,Moderate,0,No
+MD132,13,20,Love,Primary,38776,Jain,Rural,Low,4,Yes
+MD133,32,26,Love,Secondary,139855,Jain,Urban,High,0,Yes
+MD134,7,20,Arranged,Postgraduate,60798,Other,Rural,High,3,Yes
+MD135,22,19,Arranged,Primary,140370,Muslim,Rural,High,4,No
+MD136,28,29,Arranged,Graduate,75204,Sikh,Urban,High,2,Yes
+MD137,2,27,Arranged,Primary,91207,Jain,Urban,Low,0,Yes
+MD138,6,26,Love,Secondary,105356,Hindu,Rural,Moderate,0,No
+MD139,28,32,Arranged,Postgraduate,191233,Muslim,Rural,Low,1,No
+MD140,28,25,Arranged,Secondary,65652,Christian,Urban,High,4,No
+MD141,20,22,Love,No Education,170556,Christian,Rural,High,2,Yes
+MD142,30,28,Arranged,Postgraduate,134572,Hindu,Rural,Moderate,3,No
+MD143,11,19,Arranged,Secondary,25922,Jain,Urban,High,1,Yes
+MD144,28,32,Love,Graduate,170100,Muslim,Urban,Low,2,No
+MD145,25,23,Arranged,Postgraduate,156388,Hindu,Urban,Low,4,Yes
+MD146,39,25,Arranged,Postgraduate,81996,Jain,Urban,Moderate,2,No
+MD147,33,22,Arranged,Primary,153040,Muslim,Urban,Low,0,Yes
+MD148,1,33,Arranged,Graduate,35266,Christian,Urban,Low,0,No
+MD149,27,23,Arranged,No Education,160072,Muslim,Rural,Low,1,Yes
+MD150,13,22,Love,Secondary,150083,Other,Rural,Low,4,No
+MD151,3,33,Love,Primary,7866,Sikh,Urban,High,4,No
+MD152,39,30,Love,Secondary,117669,Muslim,Urban,Low,2,No
+MD153,6,22,Love,No Education,10898,Sikh,Rural,Moderate,1,No
+MD154,8,30,Love,No Education,23395,Muslim,Rural,Moderate,4,No
+MD155,27,34,Love,Postgraduate,175091,Sikh,Rural,Low,0,No
+MD156,9,25,Arranged,No Education,9006,Other,Urban,Moderate,2,Yes
+MD157,37,30,Love,Secondary,170465,Christian,Urban,Low,3,No
+MD158,33,20,Love,Graduate,15956,Jain,Rural,Moderate,0,No
+MD159,24,25,Arranged,Graduate,186114,Sikh,Urban,Moderate,1,No
+MD160,15,19,Arranged,Postgraduate,142150,Other,Urban,Low,4,No
+MD161,32,25,Love,Secondary,165703,Sikh,Urban,Low,0,Yes
+MD162,32,30,Arranged,Secondary,100676,Christian,Rural,High,3,No
+MD163,24,30,Love,No Education,126724,Sikh,Rural,Low,3,Yes
+MD164,12,18,Arranged,Secondary,67901,Other,Urban,Low,1,No
+MD165,39,23,Love,Primary,112227,Other,Urban,High,0,No
+MD166,2,33,Arranged,No Education,122192,Hindu,Urban,Low,2,Yes
+MD167,3,25,Arranged,Primary,177646,Christian,Urban,Low,0,No
+MD168,37,18,Love,Postgraduate,36417,Hindu,Urban,High,3,No
+MD169,17,33,Love,Graduate,93020,Christian,Rural,Low,1,No
+MD170,2,26,Love,Postgraduate,88639,Sikh,Urban,Low,1,Yes
+MD171,2,30,Love,Graduate,99881,Other,Urban,High,2,No
+MD172,28,28,Love,Postgraduate,175526,Hindu,Urban,High,1,No
+MD173,23,30,Arranged,Secondary,137659,Sikh,Rural,Moderate,1,No
+MD174,37,27,Love,Primary,126688,Other,Rural,Low,1,No
+MD175,32,21,Love,Graduate,120584,Christian,Urban,Moderate,1,Yes
+MD176,33,23,Arranged,No Education,190782,Other,Rural,Moderate,1,No
+MD177,1,24,Arranged,Primary,91567,Sikh,Rural,High,3,No
+MD178,19,22,Love,No Education,80886,Hindu,Rural,Low,0,Yes
+MD179,2,28,Arranged,Primary,154888,Hindu,Rural,Low,4,No
+MD180,26,30,Arranged,Primary,34432,Other,Rural,High,1,No
+MD181,32,27,Love,Postgraduate,184689,Sikh,Rural,Moderate,4,No
+MD182,6,27,Arranged,Graduate,77373,Muslim,Urban,High,4,No
+MD183,32,28,Arranged,Graduate,170289,Christian,Rural,Low,3,No
+MD184,4,24,Love,Primary,25884,Christian,Rural,High,1,No
+MD185,11,21,Love,Secondary,10454,Sikh,Urban,Low,4,No
+MD186,17,19,Arranged,Secondary,79960,Muslim,Urban,Moderate,1,No
+MD187,38,31,Arranged,No Education,107421,Hindu,Urban,Low,2,No
+MD188,24,30,Love,No Education,48618,Jain,Urban,Moderate,2,No
+MD189,5,29,Arranged,Postgraduate,198743,Jain,Rural,Moderate,2,No
+MD190,34,24,Arranged,Primary,52111,Sikh,Rural,Low,4,Yes
+MD191,6,19,Arranged,No Education,175685,Muslim,Rural,Low,2,No
+MD192,22,30,Love,No Education,125592,Muslim,Rural,Moderate,3,Yes
+MD193,11,31,Arranged,Primary,64993,Christian,Urban,High,3,No
+MD194,16,34,Arranged,Postgraduate,133652,Hindu,Rural,Low,4,Yes
+MD195,33,26,Love,No Education,144920,Other,Rural,Moderate,1,Yes
+MD196,9,34,Arranged,Postgraduate,83672,Muslim,Urban,Moderate,0,No
+MD197,6,25,Arranged,Graduate,71125,Other,Rural,High,1,No
+MD198,16,19,Love,Postgraduate,122509,Jain,Rural,Low,1,No
+MD199,29,30,Love,Secondary,66602,Other,Rural,Moderate,1,No
+MD200,3,20,Love,Secondary,47222,Hindu,Rural,High,1,No
+MD201,20,33,Love,Postgraduate,54223,Hindu,Urban,Moderate,0,Yes
+MD202,36,23,Arranged,Secondary,70333,Other,Urban,Low,2,No
+MD203,19,24,Arranged,Graduate,188804,Sikh,Urban,High,1,No
+MD204,26,27,Love,Primary,127650,Muslim,Urban,Moderate,3,No
+MD205,3,26,Love,Secondary,54420,Sikh,Urban,High,4,No
+MD206,19,19,Arranged,Secondary,80504,Other,Rural,Low,4,Yes
+MD207,20,32,Love,Postgraduate,7462,Muslim,Rural,High,3,Yes
+MD208,32,22,Arranged,Graduate,14460,Christian,Urban,Low,1,No
+MD209,7,21,Love,Primary,104319,Sikh,Urban,Moderate,0,No
+MD210,33,21,Arranged,Postgraduate,145347,Sikh,Urban,Low,2,No
+MD211,39,21,Love,Postgraduate,149341,Other,Rural,Moderate,4,Yes
+MD212,18,34,Love,Graduate,134593,Jain,Urban,Moderate,2,No
+MD213,1,29,Arranged,Primary,127672,Other,Rural,Low,0,No
+MD214,11,34,Love,Graduate,77920,Sikh,Rural,Moderate,4,Yes
+MD215,28,27,Arranged,Primary,27553,Muslim,Rural,High,2,No
+MD216,25,18,Arranged,Graduate,160438,Jain,Rural,Moderate,0,Yes
+MD217,23,31,Arranged,Postgraduate,49036,Other,Urban,Low,2,No
+MD218,31,32,Arranged,Postgraduate,153441,Other,Rural,High,1,Yes
+MD219,30,29,Arranged,No Education,147867,Sikh,Rural,High,0,No
+MD220,35,21,Love,Secondary,75021,Sikh,Urban,Moderate,2,No
+MD221,7,20,Love,Graduate,112205,Christian,Rural,Moderate,1,No
+MD222,16,29,Arranged,No Education,166215,Other,Rural,Low,1,Yes
+MD223,26,24,Love,Secondary,165497,Sikh,Rural,High,0,No
+MD224,2,28,Arranged,Graduate,93209,Hindu,Urban,Low,3,No
+MD225,1,18,Love,Primary,80139,Jain,Rural,Moderate,4,No
+MD226,12,23,Love,Secondary,10368,Hindu,Rural,High,0,No
+MD227,5,32,Love,Postgraduate,140693,Jain,Urban,Low,1,No
+MD228,37,32,Love,No Education,63829,Other,Urban,Low,1,Yes
+MD229,32,28,Arranged,Secondary,134036,Christian,Rural,Low,0,No
+MD230,9,19,Arranged,Secondary,196366,Sikh,Rural,Low,3,No
+MD231,35,31,Love,Postgraduate,19719,Sikh,Urban,Low,4,No
+MD232,19,19,Love,Graduate,34227,Sikh,Rural,High,2,No
+MD233,16,21,Arranged,Primary,114430,Other,Urban,Low,0,No
+MD234,3,34,Love,Postgraduate,143638,Jain,Rural,High,4,No
+MD235,20,20,Arranged,Primary,17306,Sikh,Urban,Low,4,No
+MD236,24,30,Arranged,Graduate,58822,Hindu,Rural,Moderate,1,No
+MD237,33,26,Arranged,Secondary,29042,Sikh,Urban,Moderate,2,Yes
+MD238,24,24,Love,Primary,151158,Other,Urban,Low,0,No
+MD239,11,32,Arranged,No Education,153459,Christian,Urban,Moderate,1,No
+MD240,8,28,Love,No Education,163114,Hindu,Urban,High,1,Yes
+MD241,36,19,Arranged,Postgraduate,94424,Sikh,Urban,Low,3,Yes
+MD242,38,32,Love,Graduate,187690,Sikh,Rural,High,4,No
+MD243,20,31,Love,Postgraduate,154395,Muslim,Rural,Low,0,No
+MD244,35,28,Love,Postgraduate,23019,Jain,Urban,Moderate,0,Yes
+MD245,25,20,Arranged,Postgraduate,80426,Hindu,Rural,High,0,No
+MD246,35,34,Arranged,No Education,45863,Muslim,Rural,Moderate,1,No
+MD247,25,29,Love,No Education,116023,Christian,Rural,Moderate,3,No
+MD248,29,32,Love,Postgraduate,146355,Jain,Rural,Low,2,No
+MD249,18,33,Love,No Education,154351,Hindu,Rural,High,1,No
+MD250,18,22,Arranged,Graduate,51999,Sikh,Rural,Moderate,2,Yes
+MD251,2,23,Arranged,Postgraduate,67780,Hindu,Urban,Low,3,No
+MD252,35,22,Arranged,No Education,27908,Sikh,Rural,Low,4,No
+MD253,16,20,Arranged,Primary,197656,Jain,Rural,Low,0,No
+MD254,36,18,Love,Postgraduate,131278,Sikh,Rural,Moderate,2,No
+MD255,33,23,Love,Postgraduate,118002,Christian,Urban,Low,1,Yes
+MD256,4,32,Arranged,Graduate,186297,Other,Rural,High,2,No
+MD257,33,19,Arranged,Secondary,174024,Sikh,Rural,High,4,Yes
+MD258,14,20,Love,Secondary,105706,Christian,Rural,Moderate,0,No
+MD259,21,34,Arranged,Graduate,173735,Other,Urban,High,2,No
+MD260,20,29,Arranged,Graduate,127019,Jain,Rural,Low,4,Yes
+MD261,8,32,Arranged,Graduate,114708,Jain,Urban,Moderate,1,No
+MD262,7,29,Arranged,Secondary,197453,Hindu,Rural,Low,3,No
+MD263,3,33,Arranged,Graduate,184001,Christian,Urban,Moderate,1,Yes
+MD264,17,25,Arranged,No Education,14343,Christian,Urban,Moderate,0,No
+MD265,33,31,Love,Postgraduate,81173,Muslim,Urban,Low,1,Yes
+MD266,12,34,Arranged,Postgraduate,105260,Muslim,Rural,High,1,Yes
+MD267,22,25,Arranged,Primary,175863,Other,Urban,High,1,No
+MD268,22,32,Love,Primary,165206,Other,Urban,Moderate,1,No
+MD269,30,31,Love,Postgraduate,183173,Muslim,Urban,Low,0,No
+MD270,38,24,Love,No Education,74443,Other,Urban,Low,4,No
+MD271,38,20,Arranged,Secondary,62530,Sikh,Rural,Moderate,2,Yes
+MD272,8,29,Love,Secondary,182871,Muslim,Rural,High,3,Yes
+MD273,27,20,Arranged,No Education,140899,Christian,Rural,Low,2,No
+MD274,27,31,Arranged,Secondary,101143,Sikh,Rural,High,2,No
+MD275,34,32,Arranged,Graduate,198725,Other,Urban,High,3,No
+MD276,21,31,Love,Postgraduate,149771,Jain,Rural,Moderate,0,No
+MD277,30,24,Love,Postgraduate,119527,Hindu,Urban,Moderate,3,Yes
+MD278,33,34,Love,No Education,141385,Muslim,Rural,High,0,No
+MD279,28,29,Love,Secondary,149670,Jain,Rural,Low,2,Yes
+MD280,33,21,Love,Primary,116362,Other,Rural,Low,0,No
+MD281,5,26,Arranged,Primary,33807,Christian,Urban,Moderate,4,Yes
+MD282,19,23,Arranged,Secondary,181298,Hindu,Rural,High,3,No
+MD283,4,33,Arranged,Primary,64550,Jain,Rural,Low,4,No
+MD284,35,19,Arranged,No Education,8558,Hindu,Rural,Low,2,No
+MD285,17,25,Love,No Education,55113,Muslim,Urban,Moderate,3,Yes
+MD286,28,28,Love,Secondary,57999,Other,Rural,High,2,No
+MD287,30,30,Arranged,Primary,191950,Christian,Rural,Low,4,No
+MD288,29,34,Love,No Education,172415,Other,Urban,Moderate,2,No
+MD289,6,25,Love,No Education,63219,Hindu,Urban,Low,3,No
+MD290,35,31,Arranged,Graduate,171258,Jain,Rural,Low,3,No
+MD291,37,32,Arranged,Graduate,173038,Muslim,Rural,Low,2,Yes
+MD292,24,23,Love,No Education,169841,Muslim,Rural,Moderate,3,No
+MD293,29,28,Love,Secondary,58218,Other,Urban,High,3,No
+MD294,31,30,Arranged,Postgraduate,24229,Jain,Urban,Moderate,2,No
+MD295,35,18,Arranged,Postgraduate,80209,Jain,Urban,High,4,No
+MD296,33,23,Arranged,No Education,32877,Hindu,Rural,Low,3,No
+MD297,21,26,Love,No Education,194073,Other,Urban,High,3,No
+MD298,32,25,Arranged,No Education,102137,Other,Rural,Low,3,No
+MD299,23,28,Arranged,Secondary,43084,Sikh,Urban,Low,3,No
+MD300,33,26,Love,Graduate,86780,Other,Urban,Moderate,2,Yes
+MD301,3,34,Love,No Education,152878,Muslim,Urban,Low,4,No
+MD302,18,29,Love,No Education,42034,Hindu,Rural,Moderate,4,Yes
+MD303,25,31,Love,Primary,176389,Jain,Rural,High,0,No
+MD304,31,32,Love,Secondary,60468,Other,Rural,High,3,No
+MD305,3,33,Arranged,No Education,155166,Hindu,Rural,Low,3,No
+MD306,24,18,Arranged,Primary,193868,Other,Urban,Moderate,0,No
+MD307,32,27,Love,Postgraduate,15589,Jain,Rural,Low,4,Yes
+MD308,22,25,Love,No Education,62221,Christian,Urban,Moderate,1,Yes
+MD309,23,18,Love,No Education,6657,Jain,Rural,Moderate,1,No
+MD310,2,19,Love,Primary,103300,Jain,Rural,Moderate,4,No
+MD311,27,18,Love,Secondary,122229,Jain,Urban,High,3,No
+MD312,2,18,Arranged,No Education,44531,Other,Urban,Moderate,1,No
+MD313,26,26,Arranged,Postgraduate,57227,Sikh,Rural,High,2,No
+MD314,17,30,Arranged,No Education,8164,Jain,Rural,Moderate,2,Yes
+MD315,33,18,Arranged,Postgraduate,98078,Muslim,Urban,High,0,Yes
+MD316,9,30,Love,Graduate,46247,Muslim,Urban,High,4,Yes
+MD317,39,24,Arranged,Graduate,155673,Hindu,Urban,High,4,Yes
+MD318,29,19,Love,Postgraduate,55599,Sikh,Urban,Low,1,No
+MD319,26,23,Love,Secondary,140624,Hindu,Urban,Moderate,3,No
+MD320,35,24,Love,No Education,145489,Muslim,Rural,Low,4,No
+MD321,25,31,Arranged,No Education,194651,Muslim,Rural,Moderate,1,No
+MD322,24,32,Love,Graduate,73207,Christian,Rural,Moderate,1,No
+MD323,13,19,Arranged,Postgraduate,77055,Jain,Rural,Low,4,Yes
+MD324,7,27,Arranged,No Education,107266,Muslim,Urban,High,1,Yes
+MD325,36,29,Love,No Education,83270,Other,Urban,Moderate,0,Yes
+MD326,20,34,Love,Secondary,116426,Other,Urban,High,0,Yes
+MD327,1,25,Love,Primary,139794,Hindu,Rural,Low,4,Yes
+MD328,8,28,Arranged,Graduate,75442,Hindu,Urban,High,3,No
+MD329,16,20,Love,Graduate,100632,Jain,Urban,Moderate,0,Yes
+MD330,14,23,Arranged,Primary,176103,Jain,Rural,Moderate,0,No
+MD331,12,26,Love,No Education,26438,Christian,Rural,Moderate,4,No
+MD332,23,23,Love,Secondary,63819,Sikh,Rural,Low,2,Yes
+MD333,15,26,Arranged,Secondary,48856,Hindu,Urban,Moderate,1,Yes
+MD334,28,24,Arranged,Graduate,169648,Jain,Urban,Low,0,No
+MD335,34,26,Arranged,Secondary,46938,Hindu,Rural,High,2,No
+MD336,2,29,Arranged,Primary,185100,Jain,Rural,Moderate,3,No
+MD337,32,25,Arranged,No Education,64807,Muslim,Urban,Moderate,2,No
+MD338,23,25,Arranged,Primary,54877,Hindu,Rural,Moderate,4,Yes
+MD339,22,32,Love,Postgraduate,48461,Muslim,Urban,High,3,No
+MD340,25,24,Love,Graduate,98474,Hindu,Rural,Moderate,3,No
+MD341,22,28,Arranged,Secondary,176541,Sikh,Rural,Low,2,No
+MD342,22,33,Love,Postgraduate,88136,Christian,Rural,High,4,No
+MD343,6,21,Arranged,Secondary,25435,Other,Urban,High,0,No
+MD344,15,23,Love,No Education,150263,Other,Urban,High,2,Yes
+MD345,37,20,Love,No Education,89726,Other,Rural,High,0,No
+MD346,33,26,Arranged,No Education,163458,Muslim,Urban,High,2,No
+MD347,8,27,Arranged,Secondary,167793,Jain,Rural,Low,0,No
+MD348,5,31,Arranged,Postgraduate,59786,Other,Rural,High,2,No
+MD349,39,28,Love,No Education,18704,Sikh,Urban,Moderate,3,Yes
+MD350,4,29,Arranged,Postgraduate,61635,Other,Urban,High,1,No
+MD351,6,29,Love,Secondary,138195,Hindu,Urban,High,3,Yes
+MD352,32,30,Arranged,Postgraduate,95710,Muslim,Urban,High,0,No
+MD353,30,30,Love,Secondary,67993,Hindu,Rural,High,4,No
+MD354,35,31,Love,Secondary,117752,Hindu,Urban,High,3,No
+MD355,16,21,Arranged,Graduate,161488,Hindu,Urban,Low,1,No
+MD356,13,30,Love,Secondary,137886,Christian,Rural,Low,0,Yes
+MD357,30,25,Love,Secondary,83537,Christian,Rural,High,3,No
+MD358,19,29,Arranged,Primary,55258,Jain,Rural,Low,2,No
+MD359,17,23,Love,No Education,152580,Muslim,Rural,Moderate,4,No
+MD360,19,22,Arranged,Graduate,90166,Sikh,Urban,High,0,No
+MD361,28,26,Arranged,Graduate,118710,Sikh,Urban,Moderate,3,Yes
+MD362,26,20,Arranged,Graduate,40699,Sikh,Rural,Moderate,0,No
+MD363,37,27,Arranged,Primary,51335,Hindu,Rural,High,2,No
+MD364,26,20,Love,Secondary,51806,Christian,Urban,Moderate,1,Yes
+MD365,23,32,Love,No Education,82853,Muslim,Urban,Moderate,3,No
+MD366,9,18,Love,Postgraduate,199840,Hindu,Urban,Moderate,0,No
+MD367,12,24,Arranged,Secondary,40739,Christian,Urban,High,0,No
+MD368,1,29,Love,Primary,39785,Christian,Urban,High,0,Yes
+MD369,1,34,Love,Secondary,168052,Other,Rural,Moderate,1,Yes
+MD370,34,22,Arranged,Secondary,90016,Other,Rural,High,0,No
+MD371,32,21,Arranged,Primary,137681,Muslim,Rural,High,4,No
+MD372,25,29,Love,Graduate,71253,Muslim,Rural,Moderate,4,Yes
+MD373,1,34,Arranged,Graduate,96128,Muslim,Urban,High,0,No
+MD374,16,26,Arranged,No Education,164213,Hindu,Rural,Low,4,No
+MD375,39,21,Arranged,No Education,166081,Jain,Urban,High,3,No
+MD376,5,19,Arranged,Graduate,132581,Muslim,Urban,Low,4,Yes
+MD377,22,21,Love,Postgraduate,115966,Other,Urban,Moderate,0,No
+MD378,29,19,Arranged,Secondary,142854,Jain,Urban,High,2,No
+MD379,3,32,Arranged,Postgraduate,104352,Hindu,Urban,Moderate,3,No
+MD380,12,19,Arranged,Secondary,162005,Jain,Urban,Moderate,1,No
+MD381,26,21,Arranged,Graduate,82154,Sikh,Urban,Moderate,0,Yes
+MD382,16,23,Arranged,No Education,144379,Jain,Rural,Moderate,1,No
+MD383,37,24,Arranged,No Education,113297,Muslim,Urban,Moderate,2,No
+MD384,22,27,Arranged,Postgraduate,43346,Hindu,Rural,High,1,No
+MD385,29,29,Arranged,No Education,117138,Muslim,Rural,Low,0,No
+MD386,14,20,Love,Graduate,55772,Other,Urban,High,0,Yes
+MD387,28,30,Arranged,Postgraduate,45149,Sikh,Urban,High,2,No
+MD388,5,25,Love,Secondary,91700,Other,Rural,High,0,Yes
+MD389,30,32,Arranged,No Education,163598,Muslim,Rural,High,2,No
+MD390,5,18,Arranged,Primary,101758,Muslim,Rural,Low,2,No
+MD391,12,20,Arranged,No Education,133447,Muslim,Rural,High,0,No
+MD392,16,25,Arranged,Secondary,10695,Christian,Urban,Moderate,4,No
+MD393,26,21,Love,Postgraduate,44169,Sikh,Urban,High,2,No
+MD394,26,33,Arranged,Secondary,52947,Muslim,Urban,High,0,Yes
+MD395,21,27,Arranged,Primary,183296,Muslim,Rural,Low,4,No
+MD396,39,29,Love,Graduate,50865,Other,Urban,Low,2,No
+MD397,36,31,Love,No Education,161625,Other,Rural,Moderate,4,Yes
+MD398,33,31,Arranged,Postgraduate,109501,Muslim,Urban,High,3,Yes
+MD399,30,19,Love,Graduate,65410,Hindu,Rural,High,3,No
+MD400,37,22,Love,Secondary,108754,Christian,Urban,High,4,No
+MD401,23,22,Love,Postgraduate,95895,Other,Urban,Moderate,2,No
+MD402,10,23,Arranged,Graduate,160888,Hindu,Rural,Low,0,Yes
+MD403,5,30,Arranged,Postgraduate,191098,Christian,Rural,Moderate,1,Yes
+MD404,36,26,Arranged,Primary,55705,Muslim,Rural,High,0,Yes
+MD405,34,32,Love,Primary,197994,Sikh,Rural,Low,1,Yes
+MD406,31,31,Arranged,No Education,120700,Jain,Rural,Low,1,No
+MD407,10,24,Love,No Education,78914,Jain,Urban,Moderate,2,Yes
+MD408,19,19,Arranged,Primary,6881,Muslim,Rural,Low,4,No
+MD409,32,24,Arranged,Postgraduate,175639,Other,Urban,Low,0,No
+MD410,1,23,Love,Primary,52365,Hindu,Urban,High,4,No
+MD411,5,34,Arranged,No Education,84211,Sikh,Urban,High,3,Yes
+MD412,4,19,Love,Primary,161078,Christian,Urban,Low,2,Yes
+MD413,16,20,Love,Primary,46198,Muslim,Urban,Low,2,No
+MD414,24,22,Arranged,Postgraduate,158903,Sikh,Rural,Moderate,3,Yes
+MD415,16,22,Love,Graduate,105649,Sikh,Rural,Moderate,0,Yes
+MD416,2,18,Arranged,No Education,152531,Other,Urban,Low,3,No
+MD417,28,25,Arranged,Postgraduate,168515,Christian,Urban,High,0,No
+MD418,32,29,Love,Primary,178388,Sikh,Rural,Low,1,Yes
+MD419,27,21,Arranged,Primary,141949,Other,Rural,Low,2,No
+MD420,20,30,Love,Graduate,44553,Hindu,Urban,High,0,No
+MD421,24,32,Arranged,No Education,140994,Other,Rural,High,4,Yes
+MD422,12,28,Arranged,No Education,127778,Hindu,Rural,Moderate,4,Yes
+MD423,35,27,Arranged,Secondary,122018,Hindu,Rural,Moderate,2,No
+MD424,33,20,Arranged,No Education,140758,Sikh,Urban,Moderate,3,Yes
+MD425,33,31,Arranged,Graduate,37766,Other,Rural,Moderate,3,No
+MD426,37,33,Love,Secondary,37006,Hindu,Urban,High,0,No
+MD427,12,27,Love,Secondary,36422,Christian,Urban,Low,3,No
+MD428,3,27,Love,Primary,121590,Sikh,Urban,Moderate,2,No
+MD429,1,29,Love,Primary,17205,Other,Urban,Moderate,0,Yes
+MD430,33,26,Love,No Education,159599,Other,Urban,High,1,No
+MD431,10,18,Love,Secondary,154515,Jain,Rural,High,3,No
+MD432,29,22,Arranged,Primary,152596,Other,Urban,Low,3,No
+MD433,13,25,Arranged,Graduate,121477,Sikh,Urban,Low,0,Yes
+MD434,12,28,Love,Primary,33202,Christian,Urban,High,4,No
+MD435,31,29,Love,Primary,182214,Other,Rural,Moderate,3,No
+MD436,2,18,Arranged,Secondary,66692,Jain,Rural,Moderate,2,No
+MD437,35,28,Arranged,Secondary,25855,Sikh,Rural,Moderate,3,Yes
+MD438,23,22,Arranged,Postgraduate,196444,Hindu,Rural,Low,1,No
+MD439,17,32,Love,Graduate,30095,Muslim,Rural,Moderate,3,No
+MD440,26,22,Love,Secondary,174796,Muslim,Rural,Moderate,4,No
+MD441,8,29,Love,No Education,54241,Hindu,Rural,High,3,Yes
+MD442,29,22,Arranged,Graduate,108119,Other,Urban,Moderate,0,No
+MD443,26,34,Arranged,Graduate,57003,Muslim,Urban,High,3,No
+MD444,10,34,Love,Secondary,99837,Muslim,Rural,Moderate,4,No
+MD445,26,29,Love,Graduate,99283,Hindu,Urban,Low,0,No
+MD446,34,32,Arranged,Secondary,152044,Other,Urban,Moderate,2,Yes
+MD447,7,32,Arranged,Primary,128805,Other,Rural,Moderate,0,No
+MD448,4,23,Arranged,Postgraduate,98846,Hindu,Urban,High,1,Yes
+MD449,11,29,Arranged,Primary,27927,Other,Urban,High,0,Yes
+MD450,29,31,Love,Secondary,125589,Other,Rural,High,2,No
+MD451,36,19,Arranged,Secondary,120657,Sikh,Urban,Moderate,3,Yes
+MD452,25,26,Arranged,Primary,71630,Sikh,Rural,Moderate,0,Yes
+MD453,21,22,Arranged,No Education,109428,Hindu,Rural,Low,0,Yes
+MD454,36,18,Love,No Education,127035,Christian,Urban,Moderate,0,No
+MD455,10,20,Love,No Education,188419,Muslim,Urban,Low,0,No
+MD456,37,23,Arranged,Secondary,131244,Sikh,Urban,High,2,No
+MD457,9,22,Arranged,Graduate,74518,Muslim,Rural,High,4,Yes
+MD458,24,22,Arranged,Secondary,181355,Jain,Rural,High,4,No
+MD459,35,18,Love,Graduate,86326,Hindu,Rural,Low,0,No
+MD460,35,34,Love,Primary,148277,Christian,Urban,Moderate,2,No
+MD461,36,31,Love,Postgraduate,125243,Jain,Urban,High,2,No
+MD462,18,29,Arranged,Graduate,17748,Jain,Rural,Moderate,0,No
+MD463,39,27,Love,No Education,157169,Other,Urban,Moderate,1,No
+MD464,32,28,Arranged,Secondary,139164,Jain,Urban,High,0,No
+MD465,24,19,Arranged,Primary,58311,Hindu,Rural,Low,1,Yes
+MD466,23,24,Arranged,No Education,27692,Sikh,Rural,Moderate,0,No
+MD467,32,32,Love,Primary,129954,Hindu,Urban,High,1,Yes
+MD468,37,28,Arranged,Postgraduate,159934,Sikh,Rural,Moderate,1,No
+MD469,12,29,Love,Secondary,135035,Jain,Urban,Moderate,0,No
+MD470,13,23,Love,Secondary,84507,Jain,Rural,Moderate,1,Yes
+MD471,23,30,Arranged,Postgraduate,85152,Christian,Rural,Moderate,3,Yes
+MD472,25,33,Arranged,Secondary,9926,Sikh,Rural,Moderate,4,No
+MD473,35,27,Love,Graduate,8969,Jain,Urban,Low,2,Yes
+MD474,30,25,Arranged,Primary,40733,Other,Urban,Low,1,Yes
+MD475,17,18,Love,No Education,74855,Muslim,Rural,High,1,Yes
+MD476,20,25,Arranged,Postgraduate,46743,Christian,Rural,Low,2,No
+MD477,25,23,Love,Graduate,135193,Hindu,Rural,Low,1,No
+MD478,22,22,Love,No Education,175948,Christian,Urban,Low,2,No
+MD479,13,32,Love,No Education,112445,Muslim,Rural,Moderate,0,No
+MD480,19,32,Love,Postgraduate,25323,Sikh,Rural,Moderate,3,No
+MD481,36,19,Arranged,Graduate,21428,Hindu,Rural,High,3,Yes
+MD482,12,18,Arranged,No Education,39578,Hindu,Rural,High,4,No
+MD483,19,28,Love,No Education,91486,Sikh,Urban,High,1,No
+MD484,12,27,Love,Graduate,69140,Christian,Urban,Moderate,4,No
+MD485,9,34,Arranged,Secondary,112325,Jain,Rural,Low,0,Yes
+MD486,7,25,Arranged,No Education,88829,Christian,Urban,Low,3,No
+MD487,28,32,Arranged,Primary,11364,Muslim,Urban,Moderate,0,Yes
+MD488,14,25,Arranged,Graduate,133867,Other,Urban,High,0,No
+MD489,31,34,Arranged,No Education,171421,Jain,Rural,High,1,Yes
+MD490,19,29,Arranged,Postgraduate,136763,Christian,Urban,High,0,Yes
+MD491,16,25,Love,Primary,100598,Other,Urban,Moderate,3,No
+MD492,5,31,Arranged,No Education,181968,Other,Urban,High,4,Yes
+MD493,35,21,Arranged,Primary,62062,Sikh,Rural,High,3,No
+MD494,12,18,Love,Primary,149933,Muslim,Rural,Moderate,1,No
+MD495,25,18,Arranged,Secondary,93302,Muslim,Urban,Low,3,No
+MD496,21,33,Arranged,Primary,68928,Muslim,Urban,Moderate,2,No
+MD497,36,31,Arranged,Secondary,46347,Jain,Rural,Moderate,4,Yes
+MD498,23,33,Arranged,Graduate,8121,Hindu,Rural,Moderate,2,No
+MD499,16,22,Arranged,Secondary,88793,Jain,Urban,Moderate,2,No
+MD500,39,26,Love,Postgraduate,33164,Christian,Urban,Low,1,No
+MD501,39,19,Arranged,No Education,30491,Other,Rural,High,0,No
+MD502,14,23,Love,Graduate,64222,Other,Rural,Moderate,2,No
+MD503,31,26,Love,Graduate,159237,Hindu,Urban,Low,3,Yes
+MD504,5,18,Arranged,Postgraduate,8748,Christian,Rural,High,0,No
+MD505,35,26,Love,Secondary,31553,Hindu,Urban,High,3,No
+MD506,23,33,Arranged,No Education,121547,Other,Urban,High,3,No
+MD507,29,30,Love,Secondary,65380,Jain,Urban,Moderate,0,No
+MD508,11,26,Love,Primary,49331,Muslim,Rural,Moderate,0,No
+MD509,18,30,Arranged,Secondary,125617,Other,Urban,High,3,Yes
+MD510,12,26,Arranged,Graduate,44560,Sikh,Urban,High,1,No
+MD511,9,28,Arranged,No Education,58865,Muslim,Rural,High,4,No
+MD512,10,21,Arranged,Secondary,182758,Other,Rural,High,4,No
+MD513,17,19,Arranged,No Education,80910,Jain,Urban,High,1,No
+MD514,38,23,Love,No Education,140747,Hindu,Urban,High,0,Yes
+MD515,7,31,Love,Primary,82986,Muslim,Rural,Low,3,No
+MD516,13,21,Love,Primary,15068,Jain,Rural,High,4,No
+MD517,9,23,Love,Graduate,59460,Christian,Rural,Moderate,3,Yes
+MD518,27,23,Love,Postgraduate,105766,Sikh,Urban,Moderate,1,No
+MD519,2,19,Love,No Education,51418,Muslim,Urban,Moderate,3,No
+MD520,5,30,Love,Postgraduate,31206,Hindu,Urban,High,1,No
+MD521,29,26,Arranged,Graduate,133180,Christian,Rural,Moderate,0,No
+MD522,37,30,Arranged,No Education,5287,Jain,Urban,Low,1,Yes
+MD523,38,28,Love,No Education,27337,Sikh,Rural,High,1,No
+MD524,19,18,Love,Postgraduate,156738,Hindu,Urban,Moderate,4,Yes
+MD525,8,24,Arranged,Secondary,137233,Jain,Rural,Low,3,No
+MD526,1,32,Arranged,Primary,105667,Jain,Urban,Low,4,Yes
+MD527,22,18,Arranged,Secondary,95071,Muslim,Urban,Moderate,2,No
+MD528,17,29,Arranged,Postgraduate,103064,Muslim,Rural,Low,1,No
+MD529,7,24,Love,Primary,174823,Hindu,Rural,Moderate,2,No
+MD530,25,32,Arranged,Secondary,111511,Other,Urban,Low,4,No
+MD531,4,18,Love,Primary,150830,Other,Rural,High,3,No
+MD532,36,34,Love,No Education,8178,Jain,Rural,High,4,Yes
+MD533,6,34,Love,Secondary,36831,Muslim,Urban,High,3,Yes
+MD534,31,20,Arranged,Primary,138248,Sikh,Rural,High,3,No
+MD535,19,29,Arranged,Primary,108306,Sikh,Urban,High,0,No
+MD536,39,23,Love,Primary,169726,Jain,Urban,Moderate,1,Yes
+MD537,27,28,Love,Secondary,162699,Muslim,Rural,High,4,No
+MD538,10,20,Love,Graduate,188622,Hindu,Rural,High,3,Yes
+MD539,26,25,Arranged,Secondary,117025,Hindu,Urban,High,4,No
+MD540,19,31,Love,Postgraduate,180982,Hindu,Urban,High,4,No
+MD541,39,31,Arranged,Secondary,95417,Sikh,Urban,Low,3,No
+MD542,3,27,Love,Primary,194323,Muslim,Urban,High,2,No
+MD543,13,19,Love,No Education,171494,Muslim,Urban,High,1,No
+MD544,28,31,Love,Secondary,16984,Sikh,Urban,Moderate,1,Yes
+MD545,20,26,Arranged,Secondary,94312,Hindu,Rural,Low,0,Yes
+MD546,28,20,Arranged,Primary,197458,Hindu,Rural,Moderate,0,No
+MD547,8,25,Love,No Education,88291,Jain,Rural,High,0,No
+MD548,39,33,Arranged,No Education,12135,Other,Urban,Moderate,1,No
+MD549,1,19,Love,Postgraduate,5320,Christian,Rural,Moderate,2,Yes
+MD550,3,23,Arranged,Secondary,157756,Other,Urban,High,1,No
+MD551,13,29,Arranged,No Education,191985,Muslim,Urban,Low,1,No
+MD552,28,22,Arranged,No Education,93774,Muslim,Rural,Low,1,No
+MD553,25,19,Love,Graduate,157961,Muslim,Urban,Moderate,1,No
+MD554,33,33,Arranged,Graduate,103071,Other,Urban,High,2,Yes
+MD555,38,22,Arranged,No Education,184971,Christian,Urban,Moderate,0,No
+MD556,6,32,Love,Postgraduate,146842,Jain,Urban,Moderate,4,No
+MD557,32,29,Love,No Education,175393,Other,Urban,Moderate,0,No
+MD558,21,21,Love,Primary,114863,Christian,Urban,High,0,No
+MD559,16,32,Love,Secondary,46777,Hindu,Rural,High,4,No
+MD560,21,28,Arranged,Postgraduate,51250,Hindu,Urban,Low,1,No
+MD561,11,33,Arranged,Primary,78034,Muslim,Urban,High,2,No
+MD562,37,23,Arranged,Postgraduate,109940,Sikh,Urban,Moderate,2,No
+MD563,36,31,Arranged,Primary,45130,Muslim,Urban,Moderate,0,No
+MD564,35,29,Arranged,Secondary,185418,Sikh,Rural,Low,4,No
+MD565,19,28,Love,Secondary,138609,Christian,Rural,High,3,Yes
+MD566,20,30,Arranged,Graduate,20216,Hindu,Urban,Moderate,1,No
+MD567,18,28,Arranged,Primary,89149,Other,Urban,Low,0,No
+MD568,14,33,Arranged,Graduate,8009,Sikh,Urban,Low,2,No
+MD569,15,32,Love,Primary,94904,Christian,Rural,Moderate,4,No
+MD570,31,32,Love,Graduate,165399,Hindu,Rural,Moderate,4,No
+MD571,1,21,Arranged,Secondary,150281,Other,Rural,High,0,Yes
+MD572,3,28,Love,Postgraduate,184515,Sikh,Rural,Low,3,No
+MD573,16,32,Love,Graduate,20029,Muslim,Urban,Moderate,2,No
+MD574,23,21,Love,Primary,193069,Muslim,Rural,Low,0,Yes
+MD575,11,30,Love,Primary,107171,Muslim,Rural,High,3,No
+MD576,12,19,Love,Secondary,119456,Christian,Urban,Moderate,4,Yes
+MD577,10,31,Love,Primary,67559,Muslim,Urban,High,1,No
+MD578,32,21,Love,No Education,69892,Jain,Rural,Low,2,Yes
+MD579,16,33,Arranged,Postgraduate,75409,Hindu,Rural,High,2,Yes
+MD580,8,31,Arranged,Graduate,144707,Christian,Rural,High,3,Yes
+MD581,38,32,Love,Postgraduate,38065,Other,Rural,Low,0,Yes
+MD582,12,20,Arranged,Secondary,125544,Muslim,Urban,High,4,Yes
+MD583,24,25,Arranged,Graduate,112340,Hindu,Urban,Low,3,Yes
+MD584,28,33,Love,Graduate,38783,Sikh,Rural,Moderate,1,No
+MD585,8,27,Arranged,No Education,39152,Muslim,Rural,Low,1,No
+MD586,28,21,Love,Secondary,63741,Hindu,Rural,Low,1,No
+MD587,36,19,Love,Primary,112049,Jain,Rural,Moderate,3,Yes
+MD588,26,34,Love,No Education,187574,Sikh,Rural,Low,4,Yes
+MD589,8,30,Arranged,No Education,34092,Jain,Urban,Moderate,2,Yes
+MD590,28,21,Arranged,Postgraduate,153725,Other,Urban,Moderate,0,Yes
+MD591,28,28,Arranged,Postgraduate,176541,Hindu,Urban,Low,2,No
+MD592,37,24,Arranged,Postgraduate,91483,Jain,Rural,High,4,No
+MD593,36,29,Love,No Education,126585,Other,Rural,High,2,No
+MD594,27,27,Love,Primary,64754,Hindu,Urban,Moderate,3,No
+MD595,17,24,Arranged,Graduate,166050,Hindu,Urban,High,1,No
+MD596,9,30,Love,Postgraduate,92592,Jain,Rural,High,4,Yes
+MD597,33,24,Love,Primary,99543,Hindu,Urban,Low,4,Yes
+MD598,20,34,Arranged,Secondary,48169,Muslim,Rural,Moderate,2,No
+MD599,13,27,Love,Postgraduate,184359,Hindu,Rural,Moderate,3,No
+MD600,28,27,Arranged,Graduate,59745,Christian,Urban,Low,2,No
+MD601,29,21,Love,Secondary,115168,Other,Urban,High,2,No
+MD602,13,21,Arranged,Secondary,118985,Hindu,Urban,Moderate,4,No
+MD603,35,24,Love,Graduate,10543,Christian,Rural,High,2,No
+MD604,6,18,Love,Postgraduate,192464,Hindu,Rural,Moderate,1,No
+MD605,18,29,Arranged,No Education,26067,Hindu,Urban,Moderate,2,No
+MD606,5,30,Arranged,Graduate,56033,Jain,Rural,Moderate,1,Yes
+MD607,25,27,Arranged,Graduate,50256,Muslim,Rural,Moderate,4,No
+MD608,2,32,Arranged,Graduate,158263,Other,Rural,High,3,No
+MD609,10,30,Love,Secondary,91803,Muslim,Urban,High,1,No
+MD610,30,26,Love,Primary,123843,Sikh,Rural,High,3,No
+MD611,5,26,Arranged,No Education,33992,Jain,Urban,High,3,No
+MD612,33,32,Love,Postgraduate,53803,Jain,Urban,Low,1,Yes
+MD613,1,27,Arranged,Postgraduate,114975,Muslim,Rural,Moderate,4,No
+MD614,18,27,Arranged,Primary,199549,Jain,Urban,Moderate,0,No
+MD615,32,25,Love,Graduate,149282,Muslim,Rural,Moderate,3,No
+MD616,11,33,Love,No Education,31270,Jain,Urban,Low,3,No
+MD617,21,34,Arranged,Postgraduate,198080,Hindu,Urban,High,4,No
+MD618,26,22,Arranged,Postgraduate,141269,Muslim,Rural,Moderate,4,No
+MD619,25,21,Arranged,Graduate,12452,Muslim,Urban,High,2,Yes
+MD620,22,21,Love,Primary,46486,Christian,Urban,High,4,Yes
+MD621,27,24,Love,No Education,19859,Jain,Urban,Low,3,Yes
+MD622,13,27,Love,Primary,163308,Jain,Rural,Low,1,No
+MD623,33,21,Love,Primary,167971,Muslim,Rural,High,0,No
+MD624,34,27,Arranged,No Education,37083,Hindu,Urban,Moderate,2,Yes
+MD625,35,18,Arranged,No Education,72708,Hindu,Urban,Moderate,1,No
+MD626,1,22,Arranged,Postgraduate,116462,Other,Urban,Low,0,No
+MD627,21,32,Arranged,Postgraduate,152735,Hindu,Rural,Low,0,No
+MD628,6,34,Arranged,No Education,98076,Jain,Rural,Low,0,No
+MD629,28,20,Arranged,Secondary,24053,Christian,Urban,Low,1,No
+MD630,17,29,Love,Postgraduate,147157,Muslim,Rural,Low,2,No
+MD631,5,19,Love,Secondary,166636,Sikh,Rural,Low,2,No
+MD632,31,18,Arranged,No Education,94745,Christian,Rural,Low,0,Yes
+MD633,5,34,Arranged,Postgraduate,195167,Sikh,Rural,Moderate,1,No
+MD634,38,33,Love,Primary,74517,Christian,Urban,Low,0,No
+MD635,3,22,Love,No Education,157225,Hindu,Rural,Low,4,No
+MD636,23,32,Love,Graduate,141319,Jain,Rural,Moderate,2,No
+MD637,37,20,Love,Secondary,146625,Sikh,Urban,Moderate,3,No
+MD638,37,24,Arranged,No Education,156883,Christian,Urban,High,0,Yes
+MD639,10,28,Arranged,No Education,142207,Jain,Rural,Low,4,No
+MD640,10,27,Arranged,Postgraduate,141645,Sikh,Rural,Low,2,Yes
+MD641,19,26,Arranged,Postgraduate,84267,Muslim,Urban,Low,1,No
+MD642,17,31,Arranged,Postgraduate,143261,Christian,Urban,Low,2,No
+MD643,21,30,Love,Graduate,85077,Muslim,Urban,High,1,Yes
+MD644,14,19,Arranged,Postgraduate,179718,Hindu,Rural,Moderate,1,No
+MD645,9,20,Love,No Education,81623,Muslim,Rural,Moderate,0,No
+MD646,1,24,Arranged,Postgraduate,136004,Muslim,Urban,Low,0,No
+MD647,13,20,Arranged,Primary,58687,Other,Rural,Low,2,No
+MD648,4,27,Arranged,Postgraduate,73312,Christian,Urban,Low,4,No
+MD649,1,24,Arranged,Graduate,112615,Hindu,Rural,High,2,No
+MD650,32,26,Arranged,Primary,135976,Muslim,Urban,High,3,No
+MD651,34,34,Love,No Education,32564,Jain,Urban,Moderate,1,No
+MD652,28,28,Love,No Education,33835,Sikh,Rural,Low,1,Yes
+MD653,31,24,Love,Secondary,197659,Muslim,Rural,Low,0,Yes
+MD654,8,31,Arranged,Primary,12697,Hindu,Rural,Low,4,Yes
+MD655,39,21,Arranged,Secondary,85165,Muslim,Rural,Low,0,No
+MD656,26,23,Love,Primary,153118,Sikh,Rural,High,3,Yes
+MD657,34,27,Arranged,Primary,62823,Hindu,Rural,Moderate,2,No
+MD658,3,24,Arranged,Graduate,189442,Christian,Urban,Moderate,2,Yes
+MD659,12,30,Love,Secondary,14615,Hindu,Rural,High,4,No
+MD660,1,31,Arranged,Graduate,141132,Christian,Urban,Low,0,No
+MD661,5,21,Love,Primary,135499,Hindu,Urban,Moderate,0,Yes
+MD662,30,25,Arranged,No Education,81436,Sikh,Rural,Moderate,3,No
+MD663,30,22,Love,Primary,196591,Sikh,Urban,High,2,No
+MD664,17,18,Arranged,Graduate,125562,Hindu,Urban,Low,0,Yes
+MD665,23,21,Arranged,Secondary,76117,Muslim,Rural,Moderate,4,Yes
+MD666,15,20,Love,Secondary,197230,Sikh,Rural,Low,2,Yes
+MD667,37,26,Arranged,Graduate,39782,Christian,Rural,Moderate,3,No
+MD668,21,25,Arranged,Secondary,83533,Christian,Urban,High,4,No
+MD669,14,18,Love,Postgraduate,194327,Jain,Rural,Low,1,No
+MD670,2,23,Arranged,No Education,77684,Other,Rural,High,3,No
+MD671,11,26,Love,No Education,192990,Other,Rural,Moderate,4,No
+MD672,39,24,Arranged,No Education,84558,Other,Rural,High,0,No
+MD673,38,21,Arranged,Secondary,86422,Christian,Urban,High,1,No
+MD674,34,30,Arranged,Secondary,161328,Jain,Rural,High,3,No
+MD675,38,34,Arranged,Primary,166077,Other,Urban,Moderate,0,Yes
+MD676,34,19,Love,Primary,11638,Other,Rural,Low,1,Yes
+MD677,18,22,Arranged,No Education,42419,Hindu,Urban,High,2,Yes
+MD678,30,29,Love,Postgraduate,38377,Hindu,Urban,Low,0,Yes
+MD679,15,25,Arranged,Primary,111244,Hindu,Urban,Moderate,4,No
+MD680,27,23,Arranged,Primary,179188,Muslim,Rural,Low,3,Yes
+MD681,34,25,Arranged,Secondary,172706,Other,Urban,High,1,No
+MD682,38,20,Arranged,Postgraduate,28382,Muslim,Rural,High,0,Yes
+MD683,33,29,Love,No Education,192135,Jain,Rural,High,2,Yes
+MD684,24,20,Love,Primary,158466,Christian,Rural,High,3,Yes
+MD685,15,23,Love,Postgraduate,72789,Other,Rural,High,3,No
+MD686,30,19,Love,Postgraduate,115634,Christian,Rural,High,0,No
+MD687,17,29,Arranged,No Education,136936,Hindu,Urban,Moderate,2,No
+MD688,5,19,Love,Postgraduate,104572,Other,Rural,Moderate,1,No
+MD689,29,23,Love,Postgraduate,176294,Sikh,Urban,Moderate,0,No
+MD690,4,34,Arranged,Postgraduate,149738,Muslim,Urban,Low,1,No
+MD691,10,20,Arranged,Primary,128664,Muslim,Urban,Low,3,No
+MD692,17,19,Arranged,No Education,157027,Other,Urban,Moderate,1,No
+MD693,10,25,Arranged,Postgraduate,115674,Hindu,Urban,Low,2,Yes
+MD694,17,29,Love,Postgraduate,108533,Muslim,Urban,Low,4,No
+MD695,20,21,Love,Primary,86845,Hindu,Urban,High,2,No
+MD696,24,22,Arranged,No Education,74590,Jain,Rural,High,1,Yes
+MD697,5,30,Arranged,Secondary,132775,Christian,Urban,Low,0,No
+MD698,34,32,Arranged,Primary,71471,Sikh,Rural,Low,3,Yes
+MD699,6,33,Love,No Education,48298,Christian,Urban,Moderate,4,No
+MD700,2,27,Love,Postgraduate,199180,Christian,Urban,Low,0,No
+MD701,13,33,Arranged,No Education,53924,Jain,Urban,High,0,No
+MD702,11,29,Arranged,No Education,152781,Muslim,Urban,Low,2,No
+MD703,23,34,Love,No Education,14726,Sikh,Rural,Moderate,1,No
+MD704,16,33,Arranged,Secondary,196896,Muslim,Rural,High,2,No
+MD705,31,29,Arranged,No Education,45542,Other,Rural,High,1,No
+MD706,11,25,Love,Secondary,156317,Christian,Urban,High,2,No
+MD707,16,20,Arranged,Postgraduate,39753,Other,Urban,High,0,No
+MD708,8,33,Love,Secondary,84788,Hindu,Urban,Low,3,No
+MD709,4,30,Arranged,Postgraduate,26316,Christian,Rural,Moderate,1,No
+MD710,4,25,Arranged,Postgraduate,89698,Muslim,Urban,Low,4,No
+MD711,25,22,Love,Secondary,20960,Christian,Rural,Low,4,No
+MD712,3,25,Love,Primary,35791,Hindu,Rural,High,0,No
+MD713,32,29,Arranged,Graduate,30216,Jain,Urban,Moderate,2,No
+MD714,3,18,Love,No Education,168539,Other,Urban,High,2,Yes
+MD715,27,23,Arranged,Graduate,69427,Other,Rural,Low,0,No
+MD716,29,25,Arranged,No Education,117470,Muslim,Rural,Low,4,Yes
+MD717,32,24,Love,No Education,198119,Christian,Rural,High,4,Yes
+MD718,19,18,Arranged,Postgraduate,78290,Muslim,Urban,Low,2,No
+MD719,21,33,Arranged,No Education,52014,Jain,Urban,Low,1,No
+MD720,5,29,Love,No Education,140150,Christian,Urban,High,3,Yes
+MD721,18,23,Love,Secondary,55519,Christian,Urban,Low,1,Yes
+MD722,28,19,Arranged,Graduate,9042,Muslim,Urban,Moderate,4,No
+MD723,22,31,Love,Secondary,54052,Muslim,Urban,High,1,Yes
+MD724,21,21,Love,No Education,19389,Hindu,Rural,Moderate,3,Yes
+MD725,6,18,Love,Postgraduate,100961,Jain,Rural,Low,1,No
+MD726,1,30,Love,Secondary,73111,Hindu,Rural,Low,1,Yes
+MD727,5,19,Arranged,Secondary,110058,Other,Urban,High,1,No
+MD728,12,26,Arranged,Primary,98715,Christian,Rural,Low,1,No
+MD729,26,19,Arranged,No Education,55733,Muslim,Urban,High,0,Yes
+MD730,34,26,Love,Postgraduate,39754,Christian,Urban,High,4,Yes
+MD731,14,18,Love,Secondary,154696,Christian,Rural,High,3,No
+MD732,26,28,Love,Secondary,90886,Sikh,Urban,High,4,No
+MD733,27,20,Love,Postgraduate,162753,Other,Rural,High,0,No
+MD734,9,21,Love,No Education,94524,Sikh,Rural,Moderate,0,Yes
+MD735,26,23,Love,Primary,86006,Christian,Urban,High,0,No
+MD736,22,20,Love,Secondary,29704,Muslim,Rural,Moderate,0,Yes
+MD737,30,28,Arranged,Primary,99913,Christian,Rural,Low,1,Yes
+MD738,17,32,Arranged,Graduate,99108,Other,Rural,High,4,No
+MD739,26,22,Love,No Education,12493,Sikh,Rural,Low,2,No
+MD740,36,27,Love,Graduate,74639,Muslim,Urban,High,3,No
+MD741,1,29,Love,Graduate,59383,Christian,Rural,Moderate,0,No
+MD742,8,32,Arranged,Graduate,139066,Jain,Rural,Moderate,4,No
+MD743,35,34,Arranged,No Education,52234,Other,Rural,Moderate,0,No
+MD744,15,27,Love,No Education,183363,Other,Urban,Low,0,No
+MD745,22,23,Love,Postgraduate,133674,Jain,Rural,High,0,No
+MD746,14,30,Arranged,Primary,10594,Christian,Urban,Low,0,No
+MD747,26,20,Arranged,Primary,12371,Other,Rural,Moderate,0,No
+MD748,28,27,Arranged,Postgraduate,52315,Muslim,Rural,Low,3,No
+MD749,23,31,Arranged,Postgraduate,132251,Christian,Rural,Moderate,4,No
+MD750,14,23,Love,Graduate,84526,Christian,Urban,Moderate,0,No
+MD751,24,20,Arranged,Postgraduate,152698,Sikh,Urban,Moderate,0,No
+MD752,2,33,Arranged,Secondary,91005,Other,Urban,High,0,No
+MD753,26,24,Love,Primary,110573,Other,Urban,High,0,Yes
+MD754,14,31,Arranged,Postgraduate,143202,Jain,Urban,Moderate,1,No
+MD755,7,26,Arranged,Secondary,142900,Sikh,Urban,Low,1,No
+MD756,3,32,Arranged,Secondary,62514,Sikh,Rural,Low,2,Yes
+MD757,23,20,Love,Secondary,188736,Other,Urban,High,0,No
+MD758,18,19,Arranged,Secondary,153955,Christian,Rural,Moderate,2,No
+MD759,38,19,Love,Graduate,179131,Sikh,Urban,Low,3,Yes
+MD760,35,20,Love,Secondary,179004,Jain,Urban,Moderate,2,Yes
+MD761,15,31,Arranged,Graduate,197341,Sikh,Urban,Low,4,Yes
+MD762,25,27,Arranged,Graduate,80986,Jain,Rural,High,1,Yes
+MD763,37,19,Arranged,Secondary,90959,Sikh,Urban,Moderate,1,No
+MD764,28,18,Arranged,Primary,7035,Jain,Urban,Moderate,0,No
+MD765,10,21,Love,Secondary,114767,Sikh,Rural,Low,0,No
+MD766,39,31,Arranged,Secondary,176817,Sikh,Rural,Low,3,No
+MD767,17,18,Arranged,Secondary,22241,Muslim,Rural,Low,3,No
+MD768,39,31,Arranged,Primary,57975,Jain,Rural,Moderate,4,Yes
+MD769,22,33,Love,No Education,159226,Jain,Urban,High,0,No
+MD770,26,31,Arranged,No Education,161697,Jain,Rural,High,0,No
+MD771,25,20,Arranged,Graduate,181022,Hindu,Urban,Low,3,Yes
+MD772,17,20,Love,Graduate,61396,Sikh,Urban,High,3,Yes
+MD773,13,26,Love,Primary,123920,Jain,Rural,Low,3,No
+MD774,20,23,Arranged,Postgraduate,149403,Other,Urban,High,1,Yes
+MD775,25,30,Arranged,No Education,199999,Hindu,Rural,Moderate,2,Yes
+MD776,4,19,Arranged,Graduate,91226,Muslim,Urban,Low,2,No
+MD777,10,25,Arranged,No Education,89719,Jain,Rural,High,0,No
+MD778,3,19,Arranged,Primary,68014,Jain,Rural,Moderate,1,No
+MD779,18,21,Love,Primary,44346,Hindu,Rural,High,3,No
+MD780,36,32,Love,Postgraduate,75411,Sikh,Rural,Moderate,0,No
+MD781,22,21,Arranged,Postgraduate,190550,Other,Rural,Moderate,1,Yes
+MD782,34,30,Arranged,Primary,148326,Muslim,Rural,High,4,Yes
+MD783,8,29,Love,Graduate,191806,Jain,Urban,High,1,Yes
+MD784,19,30,Arranged,No Education,164693,Sikh,Urban,Moderate,0,Yes
+MD785,37,31,Arranged,Secondary,81441,Other,Urban,Moderate,2,Yes
+MD786,6,23,Arranged,Postgraduate,51121,Other,Rural,Moderate,3,No
+MD787,26,28,Arranged,Secondary,65197,Muslim,Urban,Low,4,No
+MD788,34,19,Arranged,Graduate,89577,Christian,Rural,Moderate,1,Yes
+MD789,6,22,Love,Postgraduate,99634,Other,Urban,Low,0,No
+MD790,37,19,Arranged,Secondary,178503,Christian,Urban,Moderate,0,No
+MD791,33,27,Arranged,Graduate,105211,Other,Rural,Low,3,No
+MD792,22,19,Arranged,No Education,140909,Muslim,Urban,Moderate,0,Yes
+MD793,21,28,Love,Graduate,185066,Hindu,Urban,Moderate,0,No
+MD794,6,32,Love,Postgraduate,148687,Muslim,Urban,Moderate,3,Yes
+MD795,6,26,Love,Primary,6466,Muslim,Rural,High,4,No
+MD796,4,26,Love,No Education,35771,Hindu,Urban,High,2,No
+MD797,30,20,Arranged,Secondary,88886,Hindu,Rural,Moderate,2,No
+MD798,11,26,Love,Postgraduate,70911,Sikh,Urban,Low,1,Yes
+MD799,30,31,Arranged,Primary,156818,Other,Urban,Low,4,No
+MD800,31,24,Arranged,Graduate,93422,Sikh,Urban,Moderate,1,Yes
+MD801,24,33,Love,Primary,196811,Hindu,Urban,High,2,No
+MD802,9,33,Love,Postgraduate,78369,Christian,Rural,Low,3,No
+MD803,3,18,Love,Postgraduate,6893,Christian,Urban,High,0,No
+MD804,31,21,Love,Primary,35573,Muslim,Rural,Low,2,No
+MD805,37,21,Love,Graduate,101907,Jain,Rural,Moderate,4,No
+MD806,36,24,Arranged,Primary,176946,Muslim,Urban,High,2,No
+MD807,24,25,Love,Postgraduate,104956,Muslim,Urban,Low,4,Yes
+MD808,31,34,Love,Postgraduate,123580,Jain,Rural,Moderate,4,No
+MD809,6,22,Love,Secondary,169439,Other,Rural,Moderate,4,No
+MD810,2,24,Arranged,Secondary,157271,Hindu,Urban,Moderate,1,Yes
+MD811,20,21,Love,No Education,96404,Christian,Urban,High,3,No
+MD812,28,23,Arranged,Postgraduate,62724,Muslim,Urban,High,2,No
+MD813,11,24,Love,Secondary,91133,Jain,Urban,Moderate,3,No
+MD814,4,22,Love,Primary,172477,Sikh,Urban,High,0,No
+MD815,15,20,Arranged,Graduate,20989,Muslim,Rural,Low,2,No
+MD816,6,24,Love,Primary,33931,Christian,Urban,Moderate,3,Yes
+MD817,30,31,Arranged,Graduate,14290,Hindu,Urban,Moderate,3,No
+MD818,38,24,Arranged,Secondary,174439,Muslim,Rural,High,0,No
+MD819,2,22,Arranged,No Education,126136,Muslim,Urban,Moderate,4,No
+MD820,15,22,Love,Primary,84878,Other,Urban,Low,2,Yes
+MD821,11,19,Love,Primary,95477,Jain,Rural,High,2,No
+MD822,8,23,Love,Primary,131299,Sikh,Urban,High,0,Yes
+MD823,26,32,Arranged,Graduate,166205,Sikh,Rural,Moderate,4,Yes
+MD824,5,27,Love,Secondary,110686,Hindu,Urban,Moderate,2,Yes
+MD825,6,24,Arranged,Primary,163124,Christian,Urban,Moderate,2,Yes
+MD826,26,22,Love,Primary,112286,Hindu,Urban,High,2,No
+MD827,4,18,Arranged,No Education,45475,Muslim,Rural,Moderate,4,Yes
+MD828,19,30,Arranged,No Education,87666,Muslim,Rural,Low,0,No
+MD829,20,30,Arranged,Secondary,101622,Sikh,Rural,Moderate,2,Yes
+MD830,33,22,Love,Secondary,193728,Christian,Rural,Moderate,3,No
+MD831,20,30,Arranged,Postgraduate,140705,Jain,Urban,High,4,Yes
+MD832,12,21,Arranged,No Education,153376,Christian,Rural,Moderate,1,No
+MD833,1,34,Arranged,Postgraduate,112573,Muslim,Rural,High,0,No
+MD834,26,20,Arranged,Graduate,51546,Jain,Rural,Moderate,3,Yes
+MD835,14,34,Arranged,Postgraduate,12008,Christian,Urban,Low,2,No
+MD836,38,28,Arranged,Primary,53291,Christian,Urban,Low,1,No
+MD837,37,21,Love,Postgraduate,163477,Jain,Rural,High,0,No
+MD838,11,19,Love,Secondary,41386,Muslim,Rural,High,4,Yes
+MD839,36,33,Arranged,Graduate,95909,Christian,Urban,Moderate,1,No
+MD840,13,25,Love,Primary,156899,Jain,Rural,Moderate,1,No
+MD841,3,20,Love,Postgraduate,38040,Other,Rural,Low,3,No
+MD842,33,26,Arranged,Graduate,65354,Other,Rural,Moderate,0,No
+MD843,6,23,Arranged,Graduate,83543,Muslim,Rural,Low,3,Yes
+MD844,10,27,Arranged,Primary,23157,Jain,Urban,High,3,Yes
+MD845,5,27,Love,Postgraduate,40315,Other,Urban,Moderate,2,No
+MD846,23,30,Arranged,Graduate,40932,Jain,Urban,High,4,No
+MD847,10,34,Love,Graduate,157236,Christian,Rural,Moderate,1,Yes
+MD848,2,26,Arranged,No Education,150486,Muslim,Rural,Low,0,No
+MD849,13,34,Love,Graduate,150399,Other,Urban,High,4,No
+MD850,2,26,Arranged,No Education,118880,Christian,Urban,High,4,No
+MD851,20,26,Arranged,Postgraduate,137018,Hindu,Urban,Moderate,0,No
+MD852,1,18,Love,Postgraduate,19693,Hindu,Rural,High,4,No
+MD853,37,19,Love,Postgraduate,32241,Muslim,Urban,Low,2,No
+MD854,9,33,Love,Secondary,120194,Other,Rural,High,4,No
+MD855,17,18,Love,Postgraduate,100790,Other,Rural,High,2,No
+MD856,9,27,Love,Graduate,151612,Other,Urban,Moderate,1,Yes
+MD857,11,25,Love,Primary,77255,Jain,Urban,High,1,No
+MD858,15,28,Arranged,No Education,177275,Christian,Rural,Moderate,3,Yes
+MD859,24,19,Love,Secondary,161153,Other,Urban,Moderate,2,No
+MD860,38,25,Arranged,Postgraduate,197933,Christian,Urban,High,1,Yes
+MD861,35,25,Arranged,Postgraduate,16350,Muslim,Rural,Low,4,Yes
+MD862,30,34,Love,Primary,191584,Other,Rural,Moderate,0,Yes
+MD863,31,32,Arranged,Primary,61809,Muslim,Rural,High,0,Yes
+MD864,5,34,Love,Secondary,106894,Other,Rural,Moderate,2,No
+MD865,14,30,Love,No Education,102557,Hindu,Rural,Low,3,No
+MD866,11,22,Arranged,Postgraduate,178904,Sikh,Urban,Low,4,No
+MD867,9,29,Arranged,Secondary,164441,Muslim,Rural,Moderate,2,No
+MD868,34,18,Love,Graduate,36728,Other,Rural,Low,0,No
+MD869,12,22,Love,Graduate,22576,Sikh,Rural,High,2,Yes
+MD870,35,25,Arranged,Secondary,165073,Muslim,Urban,High,4,No
+MD871,35,30,Arranged,Postgraduate,88384,Jain,Rural,Moderate,1,No
+MD872,1,25,Arranged,Secondary,5390,Other,Rural,Low,4,Yes
+MD873,22,28,Arranged,Postgraduate,50436,Jain,Rural,High,1,No
+MD874,29,18,Love,Primary,16569,Hindu,Urban,High,1,No
+MD875,8,30,Love,Secondary,149101,Other,Rural,High,1,Yes
+MD876,11,20,Love,Postgraduate,27490,Hindu,Rural,Moderate,2,No
+MD877,37,34,Love,Secondary,50875,Sikh,Rural,Moderate,0,No
+MD878,14,22,Arranged,Secondary,10867,Muslim,Urban,High,2,Yes
+MD879,30,25,Arranged,Postgraduate,85820,Christian,Urban,High,0,Yes
+MD880,35,31,Love,Postgraduate,104515,Hindu,Urban,Low,4,Yes
+MD881,21,21,Love,No Education,14121,Christian,Urban,Low,3,No
+MD882,37,28,Love,Secondary,6539,Christian,Rural,Low,4,Yes
+MD883,5,32,Love,Graduate,153099,Muslim,Rural,Moderate,2,No
+MD884,19,24,Love,Secondary,132402,Sikh,Urban,High,2,No
+MD885,14,28,Love,Secondary,79229,Muslim,Urban,Moderate,0,No
+MD886,26,22,Love,Postgraduate,144993,Other,Rural,High,2,No
+MD887,4,22,Love,Secondary,55435,Hindu,Rural,Low,1,No
+MD888,25,25,Love,Secondary,146382,Christian,Urban,Low,2,No
+MD889,25,27,Arranged,Graduate,68965,Muslim,Urban,Low,0,No
+MD890,18,23,Love,Postgraduate,116048,Muslim,Urban,Low,0,No
+MD891,8,32,Arranged,Secondary,101444,Muslim,Urban,High,1,Yes
+MD892,39,33,Arranged,Primary,74922,Hindu,Rural,Low,0,No
+MD893,14,34,Love,No Education,102799,Sikh,Urban,High,3,No
+MD894,32,25,Love,Graduate,98948,Muslim,Urban,High,4,No
+MD895,38,25,Arranged,Secondary,148314,Hindu,Rural,Moderate,2,No
+MD896,33,26,Arranged,Primary,13947,Christian,Rural,Low,3,No
+MD897,23,19,Love,Secondary,197888,Other,Rural,Low,2,No
+MD898,15,32,Arranged,Secondary,53785,Jain,Rural,Moderate,3,No
+MD899,33,20,Love,Postgraduate,124963,Hindu,Rural,High,2,Yes
+MD900,25,34,Love,Postgraduate,5507,Jain,Urban,Low,1,No
+MD901,17,21,Love,Postgraduate,163223,Muslim,Urban,High,0,No
+MD902,33,21,Arranged,Primary,16618,Muslim,Urban,Moderate,0,No
+MD903,2,31,Arranged,Secondary,79286,Hindu,Rural,High,1,No
+MD904,14,26,Love,No Education,21122,Jain,Urban,Low,3,No
+MD905,39,26,Arranged,Graduate,143426,Muslim,Rural,High,4,No
+MD906,6,27,Arranged,Postgraduate,114598,Christian,Urban,High,3,No
+MD907,6,21,Arranged,Postgraduate,167051,Sikh,Urban,Low,0,Yes
+MD908,3,29,Arranged,Secondary,91436,Sikh,Rural,Low,4,Yes
+MD909,7,25,Arranged,Secondary,188846,Muslim,Rural,High,2,No
+MD910,8,19,Arranged,Primary,141109,Jain,Urban,High,4,Yes
+MD911,15,30,Arranged,Primary,33633,Other,Urban,Moderate,3,No
+MD912,29,33,Love,Postgraduate,29495,Muslim,Urban,Low,1,Yes
+MD913,33,19,Arranged,Secondary,69550,Other,Urban,High,2,No
+MD914,30,28,Arranged,No Education,41483,Other,Urban,Low,3,No
+MD915,39,27,Arranged,Graduate,118181,Jain,Rural,Moderate,2,Yes
+MD916,27,32,Arranged,Secondary,39069,Other,Rural,High,4,Yes
+MD917,36,34,Arranged,Secondary,143442,Christian,Rural,High,0,Yes
+MD918,29,25,Arranged,Primary,124873,Jain,Rural,High,3,No
+MD919,38,26,Arranged,Graduate,121843,Muslim,Urban,Low,1,Yes
+MD920,33,25,Arranged,Postgraduate,76947,Christian,Urban,Moderate,4,Yes
+MD921,37,31,Love,Secondary,175205,Hindu,Rural,Low,3,No
+MD922,27,29,Arranged,Postgraduate,100761,Sikh,Urban,High,1,No
+MD923,33,31,Arranged,Secondary,118753,Muslim,Rural,Moderate,3,No
+MD924,4,34,Arranged,Postgraduate,136764,Muslim,Urban,High,4,Yes
+MD925,22,20,Arranged,Graduate,33926,Muslim,Urban,High,3,No
+MD926,2,24,Love,Primary,104782,Christian,Urban,Low,2,No
+MD927,10,34,Love,Graduate,109700,Hindu,Rural,High,4,No
+MD928,5,29,Love,No Education,78984,Jain,Rural,Moderate,3,No
+MD929,10,26,Love,Primary,179462,Hindu,Rural,High,0,No
+MD930,33,32,Love,Graduate,54593,Christian,Rural,High,3,No
+MD931,38,30,Love,No Education,80609,Muslim,Urban,Low,2,Yes
+MD932,13,25,Love,Secondary,10209,Sikh,Urban,Moderate,1,No
+MD933,31,31,Love,Secondary,131700,Muslim,Urban,Low,1,Yes
+MD934,36,25,Love,Postgraduate,142605,Jain,Urban,High,1,No
+MD935,24,31,Love,Primary,91597,Other,Rural,Low,0,No
+MD936,15,24,Love,Secondary,12211,Sikh,Urban,Low,2,No
+MD937,29,29,Love,Primary,14927,Muslim,Urban,Low,4,No
+MD938,8,28,Love,Secondary,122333,Sikh,Urban,Low,1,No
+MD939,5,28,Love,Postgraduate,160666,Other,Rural,High,2,Yes
+MD940,29,30,Love,Graduate,81382,Hindu,Rural,High,3,No
+MD941,4,19,Love,Postgraduate,144005,Christian,Rural,Moderate,0,No
+MD942,12,32,Arranged,No Education,108780,Muslim,Urban,Low,2,No
+MD943,2,32,Love,Secondary,45696,Jain,Rural,Low,2,No
+MD944,27,29,Arranged,No Education,72616,Hindu,Urban,Moderate,4,Yes
+MD945,31,30,Love,No Education,142161,Muslim,Urban,Low,2,No
+MD946,36,28,Love,Primary,192620,Hindu,Urban,Moderate,4,No
+MD947,36,22,Arranged,Secondary,162195,Jain,Rural,High,0,No
+MD948,26,18,Love,No Education,143869,Muslim,Rural,Moderate,0,No
+MD949,27,20,Arranged,Graduate,55013,Other,Urban,Low,3,No
+MD950,5,24,Arranged,No Education,144418,Other,Urban,Moderate,4,No
+MD951,20,29,Arranged,Graduate,169744,Jain,Rural,High,4,No
+MD952,11,32,Love,Primary,153725,Sikh,Rural,Low,1,No
+MD953,10,22,Love,No Education,54556,Jain,Rural,High,1,No
+MD954,38,32,Love,Postgraduate,128723,Sikh,Urban,High,3,Yes
+MD955,6,25,Arranged,Primary,31140,Muslim,Urban,Moderate,0,No
+MD956,8,27,Arranged,Graduate,6184,Sikh,Urban,High,1,Yes
+MD957,23,33,Love,Primary,170565,Muslim,Rural,Low,2,Yes
+MD958,26,25,Love,No Education,180220,Muslim,Rural,High,0,No
+MD959,12,18,Love,Secondary,160918,Christian,Rural,High,2,No
+MD960,26,29,Love,Secondary,116361,Muslim,Urban,Moderate,4,No
+MD961,13,22,Love,Graduate,158267,Sikh,Urban,High,0,Yes
+MD962,18,20,Arranged,Graduate,10606,Christian,Rural,Moderate,3,No
+MD963,25,18,Arranged,Secondary,140028,Christian,Urban,Moderate,4,No
+MD964,33,21,Arranged,Graduate,21555,Muslim,Rural,Low,4,No
+MD965,12,25,Love,Primary,95385,Jain,Urban,Low,2,Yes
+MD966,36,20,Arranged,Postgraduate,154762,Jain,Rural,Low,4,No
+MD967,4,27,Arranged,Postgraduate,63502,Other,Urban,Low,1,No
+MD968,5,19,Arranged,Primary,184921,Christian,Urban,Moderate,0,No
+MD969,37,28,Arranged,Postgraduate,162419,Muslim,Rural,High,1,No
+MD970,8,27,Arranged,No Education,108844,Jain,Rural,Low,2,No
+MD971,28,31,Love,Primary,96321,Muslim,Rural,Low,2,Yes
+MD972,31,24,Arranged,Graduate,54056,Muslim,Rural,Low,0,Yes
+MD973,9,19,Love,Primary,199923,Christian,Rural,High,4,Yes
+MD974,29,26,Love,Secondary,103234,Other,Urban,Low,3,No
+MD975,14,33,Love,Graduate,46850,Christian,Rural,High,2,No
+MD976,22,30,Love,Secondary,32843,Hindu,Rural,Moderate,0,No
+MD977,11,26,Love,Graduate,67320,Jain,Rural,Moderate,3,No
+MD978,23,21,Arranged,Postgraduate,34793,Jain,Urban,Moderate,4,No
+MD979,1,27,Arranged,Primary,175588,Jain,Rural,High,2,No
+MD980,37,29,Love,No Education,153929,Sikh,Rural,Low,0,No
+MD981,21,34,Love,Graduate,24627,Muslim,Rural,Low,0,No
+MD982,26,31,Love,Graduate,66822,Christian,Urban,Low,0,No
+MD983,36,31,Arranged,Secondary,188320,Jain,Urban,Low,2,Yes
+MD984,23,19,Love,Postgraduate,60798,Hindu,Rural,Low,3,No
+MD985,1,28,Arranged,Secondary,180188,Jain,Urban,High,0,Yes
+MD986,15,33,Love,Secondary,80318,Other,Rural,Moderate,4,Yes
+MD987,21,23,Arranged,Postgraduate,109186,Muslim,Urban,Low,0,No
+MD988,9,22,Love,No Education,92902,Muslim,Rural,Moderate,3,No
+MD989,9,21,Arranged,Secondary,164629,Christian,Urban,High,2,No
+MD990,10,32,Love,Secondary,76334,Sikh,Rural,High,0,Yes
+MD991,26,21,Arranged,Graduate,111719,Christian,Rural,Low,0,No
+MD992,35,27,Arranged,Postgraduate,128099,Jain,Urban,High,4,Yes
+MD993,25,20,Arranged,Primary,178686,Other,Rural,Moderate,4,No
+MD994,26,22,Arranged,No Education,17720,Hindu,Rural,Low,0,Yes
+MD995,11,23,Arranged,No Education,62608,Christian,Rural,Low,0,Yes
+MD996,38,25,Arranged,Postgraduate,112449,Sikh,Rural,Moderate,4,No
+MD997,2,24,Arranged,Graduate,107828,Christian,Urban,Low,3,No
+MD998,7,27,Love,Graduate,131613,Muslim,Rural,Low,1,No
+MD999,18,23,Love,Postgraduate,77095,Jain,Urban,Moderate,1,No
+MD1000,27,31,Love,Graduate,110924,Jain,Urban,Low,0,No
+MD1001,34,21,Love,No Education,101452,Jain,Urban,Low,4,Yes
+MD1002,27,30,Love,No Education,92593,Jain,Urban,Moderate,2,No
+MD1003,17,34,Arranged,Primary,171964,Jain,Rural,High,2,Yes
+MD1004,24,24,Arranged,Postgraduate,111975,Jain,Rural,Moderate,1,Yes
+MD1005,25,21,Arranged,Secondary,82242,Hindu,Urban,Low,3,No
+MD1006,7,31,Arranged,Secondary,121041,Sikh,Rural,Moderate,1,Yes
+MD1007,6,20,Arranged,Primary,131202,Jain,Urban,Low,0,No
+MD1008,24,22,Love,Primary,82606,Sikh,Rural,Low,3,Yes
+MD1009,33,33,Love,Graduate,128769,Other,Rural,Moderate,2,No
+MD1010,29,21,Love,Primary,123542,Jain,Rural,Low,4,No
+MD1011,22,19,Love,Primary,111438,Christian,Urban,High,4,No
+MD1012,26,34,Arranged,Secondary,5924,Jain,Urban,Low,0,No
+MD1013,28,31,Arranged,Graduate,56322,Muslim,Rural,Moderate,1,No
+MD1014,21,30,Arranged,Primary,162550,Hindu,Urban,High,0,No
+MD1015,7,29,Love,Primary,76042,Christian,Urban,High,4,No
+MD1016,17,23,Arranged,Graduate,51418,Christian,Rural,Low,2,Yes
+MD1017,20,21,Love,Postgraduate,198289,Muslim,Urban,Moderate,4,No
+MD1018,20,33,Arranged,Graduate,105699,Jain,Rural,Low,3,No
+MD1019,22,30,Arranged,Secondary,95140,Hindu,Rural,Low,4,No
+MD1020,28,21,Love,Postgraduate,16781,Christian,Rural,Moderate,4,Yes
+MD1021,7,34,Arranged,No Education,141587,Hindu,Urban,Moderate,3,Yes
+MD1022,1,18,Arranged,Graduate,122358,Christian,Rural,Low,1,No
+MD1023,32,34,Love,Secondary,41133,Jain,Rural,High,4,No
+MD1024,13,32,Arranged,Postgraduate,102628,Other,Urban,Low,0,No
+MD1025,30,28,Love,Graduate,81946,Christian,Urban,High,4,No
+MD1026,23,30,Arranged,Primary,90058,Other,Urban,Low,0,Yes
+MD1027,19,18,Arranged,Graduate,145167,Christian,Urban,Moderate,3,No
+MD1028,32,34,Arranged,No Education,156542,Sikh,Rural,High,4,Yes
+MD1029,30,23,Arranged,Graduate,48129,Jain,Urban,Moderate,3,No
+MD1030,29,21,Arranged,Postgraduate,13531,Muslim,Urban,Moderate,3,Yes
+MD1031,29,33,Arranged,Postgraduate,42038,Other,Urban,Moderate,1,No
+MD1032,30,32,Arranged,Graduate,92939,Muslim,Urban,Moderate,4,Yes
+MD1033,16,32,Arranged,Postgraduate,47674,Jain,Rural,Moderate,0,Yes
+MD1034,19,23,Love,Primary,132572,Muslim,Urban,Low,0,Yes
+MD1035,18,32,Love,Graduate,34831,Jain,Rural,High,4,No
+MD1036,1,31,Arranged,Primary,62174,Muslim,Urban,Low,1,No
+MD1037,14,28,Arranged,Primary,16279,Other,Rural,Low,1,No
+MD1038,2,24,Love,Secondary,174292,Sikh,Rural,Low,1,No
+MD1039,28,26,Arranged,Graduate,65610,Muslim,Urban,Moderate,0,No
+MD1040,30,33,Arranged,Postgraduate,188791,Other,Rural,Low,3,No
+MD1041,38,22,Love,Primary,58051,Christian,Urban,High,1,No
+MD1042,4,27,Arranged,Secondary,61652,Jain,Rural,Low,0,No
+MD1043,1,20,Arranged,Graduate,70524,Hindu,Rural,Moderate,0,No
+MD1044,8,30,Love,Graduate,11470,Hindu,Rural,High,3,No
+MD1045,29,28,Arranged,No Education,177870,Jain,Urban,High,4,No
+MD1046,39,34,Arranged,No Education,58473,Sikh,Rural,High,4,No
+MD1047,3,30,Love,Primary,155952,Muslim,Urban,High,1,No
+MD1048,32,23,Arranged,No Education,49439,Sikh,Rural,Low,1,No
+MD1049,10,34,Love,Primary,19308,Hindu,Rural,Moderate,3,Yes
+MD1050,10,30,Arranged,Postgraduate,96563,Other,Rural,High,1,Yes
+MD1051,19,27,Arranged,Primary,40081,Jain,Rural,High,3,Yes
+MD1052,34,20,Love,No Education,186455,Jain,Rural,Moderate,0,Yes
+MD1053,33,31,Love,Postgraduate,14837,Sikh,Rural,Low,1,No
+MD1054,23,22,Arranged,No Education,188223,Other,Urban,High,0,No
+MD1055,28,22,Love,Primary,123128,Sikh,Urban,Low,2,No
+MD1056,32,34,Love,Secondary,172896,Muslim,Urban,Low,3,No
+MD1057,7,27,Arranged,Graduate,169145,Christian,Rural,Low,2,No
+MD1058,29,22,Arranged,No Education,117651,Other,Urban,Low,1,No
+MD1059,8,21,Arranged,Primary,102624,Christian,Rural,High,0,No
+MD1060,1,23,Love,Postgraduate,162371,Muslim,Urban,High,1,No
+MD1061,3,21,Love,No Education,194933,Christian,Urban,Low,2,Yes
+MD1062,24,24,Love,No Education,35063,Hindu,Rural,Low,1,No
+MD1063,23,24,Love,Graduate,74453,Christian,Rural,Moderate,4,No
+MD1064,8,20,Arranged,Primary,107166,Muslim,Urban,Moderate,2,No
+MD1065,37,18,Love,Secondary,19506,Christian,Urban,Moderate,1,No
+MD1066,3,21,Arranged,Postgraduate,118604,Jain,Urban,High,0,No
+MD1067,33,23,Love,Primary,31026,Sikh,Urban,Moderate,1,Yes
+MD1068,28,26,Arranged,Postgraduate,163744,Hindu,Rural,High,0,No
+MD1069,8,31,Arranged,No Education,174489,Jain,Urban,High,4,No
+MD1070,34,29,Arranged,Graduate,57413,Jain,Rural,High,1,No
+MD1071,35,21,Love,Graduate,70066,Muslim,Rural,High,4,No
+MD1072,32,29,Arranged,Secondary,195285,Sikh,Urban,Moderate,2,Yes
+MD1073,24,27,Arranged,Graduate,55971,Sikh,Rural,Low,0,No
+MD1074,14,24,Love,No Education,163353,Other,Urban,Low,2,Yes
+MD1075,32,20,Arranged,Secondary,118978,Hindu,Rural,Low,0,Yes
+MD1076,16,31,Love,Primary,164163,Muslim,Rural,Moderate,4,Yes
+MD1077,4,27,Love,Graduate,55494,Hindu,Urban,Low,3,No
+MD1078,37,33,Arranged,Secondary,108864,Other,Rural,Moderate,1,No
+MD1079,21,33,Arranged,No Education,154682,Christian,Rural,Moderate,4,No
+MD1080,14,27,Love,Postgraduate,137151,Jain,Urban,Moderate,0,No
+MD1081,31,30,Arranged,Postgraduate,100386,Hindu,Rural,Low,0,Yes
+MD1082,18,23,Love,No Education,182823,Jain,Rural,Low,0,Yes
+MD1083,7,29,Love,No Education,91126,Muslim,Urban,Low,0,Yes
+MD1084,10,26,Love,Postgraduate,191504,Christian,Urban,High,1,Yes
+MD1085,7,30,Arranged,Secondary,167023,Muslim,Rural,Moderate,2,No
+MD1086,33,21,Love,Postgraduate,85863,Christian,Rural,High,3,No
+MD1087,23,28,Arranged,No Education,83291,Christian,Rural,Moderate,1,No
+MD1088,21,28,Arranged,Graduate,130659,Jain,Urban,Low,0,Yes
+MD1089,19,21,Arranged,Primary,195944,Muslim,Rural,Moderate,1,Yes
+MD1090,19,18,Arranged,Graduate,12235,Muslim,Rural,Moderate,4,No
+MD1091,36,24,Love,Graduate,87733,Hindu,Rural,High,0,Yes
+MD1092,29,23,Arranged,No Education,67712,Muslim,Rural,Moderate,3,Yes
+MD1093,18,32,Love,Postgraduate,157545,Hindu,Rural,Low,0,Yes
+MD1094,2,28,Love,Secondary,130849,Sikh,Rural,Moderate,3,Yes
+MD1095,1,32,Arranged,Graduate,84823,Sikh,Urban,Moderate,3,No
+MD1096,5,33,Love,Postgraduate,109215,Sikh,Urban,Moderate,2,No
+MD1097,20,24,Love,Secondary,37230,Other,Rural,High,2,No
+MD1098,11,27,Arranged,Graduate,89573,Muslim,Rural,Moderate,1,No
+MD1099,2,29,Love,Secondary,45644,Other,Urban,Moderate,1,No
+MD1100,3,31,Love,Postgraduate,184736,Muslim,Urban,High,3,No
+MD1101,23,22,Love,Primary,50203,Hindu,Urban,High,0,Yes
+MD1102,12,22,Love,Postgraduate,71677,Other,Rural,High,4,No
+MD1103,20,20,Arranged,No Education,161497,Other,Rural,High,4,Yes
+MD1104,5,22,Love,Secondary,128246,Other,Rural,Low,0,No
+MD1105,37,34,Love,Primary,89817,Christian,Rural,Low,0,No
+MD1106,38,29,Love,Secondary,74806,Hindu,Urban,Moderate,2,No
+MD1107,30,26,Love,Secondary,47814,Sikh,Urban,Low,4,No
+MD1108,9,18,Arranged,Graduate,75219,Hindu,Urban,Moderate,3,No
+MD1109,34,21,Love,No Education,185718,Christian,Urban,Low,1,No
+MD1110,35,27,Arranged,Secondary,175956,Muslim,Rural,High,2,No
+MD1111,22,24,Love,Postgraduate,100345,Hindu,Rural,High,4,No
+MD1112,24,18,Arranged,Postgraduate,105088,Other,Urban,Low,0,No
+MD1113,17,34,Arranged,Graduate,74322,Sikh,Urban,Low,4,Yes
+MD1114,10,19,Arranged,No Education,26650,Sikh,Urban,Moderate,3,No
+MD1115,30,28,Arranged,No Education,99242,Muslim,Urban,Moderate,2,No
+MD1116,23,26,Arranged,Postgraduate,145262,Hindu,Urban,Moderate,0,Yes
+MD1117,32,24,Love,Primary,43196,Christian,Rural,High,3,No
+MD1118,17,34,Love,Graduate,175521,Muslim,Rural,High,1,Yes
+MD1119,17,34,Love,Graduate,175733,Hindu,Urban,High,2,Yes
+MD1120,14,19,Arranged,Postgraduate,34709,Jain,Urban,High,3,Yes
+MD1121,9,23,Love,Postgraduate,85428,Sikh,Urban,Moderate,3,No
+MD1122,2,31,Arranged,Primary,14943,Christian,Rural,High,0,Yes
+MD1123,25,23,Arranged,Primary,179312,Other,Rural,High,1,Yes
+MD1124,39,19,Love,No Education,181832,Christian,Rural,High,3,No
+MD1125,9,18,Love,Graduate,26042,Other,Urban,High,2,No
+MD1126,22,27,Arranged,Graduate,48894,Christian,Rural,Low,3,No
+MD1127,4,22,Arranged,Postgraduate,142941,Sikh,Urban,Moderate,4,Yes
+MD1128,26,19,Love,No Education,197150,Other,Rural,Moderate,2,No
+MD1129,29,33,Love,Graduate,61759,Hindu,Rural,High,2,Yes
+MD1130,34,19,Love,No Education,110973,Other,Rural,Low,3,No
+MD1131,23,27,Love,No Education,49306,Muslim,Urban,Moderate,0,Yes
+MD1132,37,19,Arranged,Postgraduate,113369,Hindu,Urban,Moderate,2,No
+MD1133,11,33,Love,No Education,191443,Muslim,Rural,High,4,No
+MD1134,6,33,Love,Primary,156990,Christian,Urban,High,0,No
+MD1135,18,24,Love,Primary,33379,Hindu,Urban,Moderate,0,No
+MD1136,21,29,Arranged,Secondary,125667,Christian,Urban,Moderate,0,No
+MD1137,36,32,Arranged,Postgraduate,139034,Jain,Urban,Low,2,No
+MD1138,38,25,Arranged,Secondary,149923,Christian,Urban,Moderate,0,No
+MD1139,34,23,Arranged,Primary,122626,Christian,Urban,Moderate,3,Yes
+MD1140,17,27,Love,Secondary,181819,Muslim,Urban,High,0,Yes
+MD1141,37,20,Arranged,Postgraduate,130180,Other,Rural,Moderate,4,No
+MD1142,25,34,Love,Postgraduate,57349,Jain,Urban,High,1,No
+MD1143,38,24,Love,No Education,192428,Christian,Urban,Moderate,4,No
+MD1144,12,21,Love,Graduate,150817,Christian,Rural,Moderate,2,Yes
+MD1145,23,31,Love,No Education,10730,Jain,Rural,Moderate,0,No
+MD1146,22,32,Arranged,Postgraduate,149993,Jain,Rural,Low,0,No
+MD1147,21,25,Arranged,Primary,24023,Hindu,Rural,High,3,No
+MD1148,27,32,Arranged,Primary,181421,Muslim,Urban,Low,0,Yes
+MD1149,31,31,Love,No Education,131796,Jain,Rural,Moderate,4,No
+MD1150,6,26,Love,Postgraduate,86533,Jain,Rural,Low,2,Yes
+MD1151,27,25,Love,Primary,88286,Sikh,Urban,High,1,No
+MD1152,34,34,Love,Postgraduate,46979,Other,Urban,Moderate,0,No
+MD1153,12,19,Love,Primary,27837,Jain,Urban,Low,1,No
+MD1154,7,20,Arranged,Postgraduate,151069,Muslim,Rural,Low,0,No
+MD1155,10,25,Love,Secondary,109975,Other,Urban,High,2,No
+MD1156,17,29,Arranged,Postgraduate,181111,Other,Rural,Low,4,No
+MD1157,26,18,Love,Postgraduate,25923,Christian,Urban,High,2,No
+MD1158,21,27,Love,No Education,13876,Christian,Urban,Moderate,1,No
+MD1159,28,20,Arranged,Secondary,65973,Christian,Rural,Moderate,0,No
+MD1160,2,23,Arranged,Graduate,138959,Christian,Urban,Low,1,Yes
+MD1161,1,24,Love,No Education,199795,Sikh,Urban,Moderate,4,No
+MD1162,36,28,Love,Graduate,47422,Jain,Urban,Moderate,2,No
+MD1163,26,22,Love,Primary,56413,Christian,Urban,Low,1,No
+MD1164,29,28,Love,Graduate,107484,Hindu,Urban,Moderate,1,No
+MD1165,21,29,Arranged,Postgraduate,138913,Christian,Rural,Low,4,No
+MD1166,11,27,Love,Graduate,33756,Jain,Rural,High,0,No
+MD1167,11,25,Arranged,No Education,76576,Christian,Urban,High,1,No
+MD1168,36,26,Love,No Education,123248,Sikh,Rural,High,4,No
+MD1169,39,21,Arranged,Graduate,15304,Muslim,Rural,Low,0,Yes
+MD1170,35,22,Arranged,No Education,35341,Muslim,Rural,Low,0,No
+MD1171,34,25,Love,No Education,140830,Jain,Urban,Moderate,2,No
+MD1172,24,26,Arranged,Graduate,153082,Muslim,Urban,Moderate,4,No
+MD1173,22,32,Love,Secondary,132039,Muslim,Urban,Moderate,0,No
+MD1174,5,32,Arranged,Secondary,196830,Hindu,Rural,Moderate,2,Yes
+MD1175,33,33,Love,Primary,167730,Jain,Rural,Moderate,3,No
+MD1176,36,31,Arranged,No Education,185074,Jain,Urban,Low,4,No
+MD1177,20,25,Love,Graduate,137447,Muslim,Urban,Low,3,No
+MD1178,19,27,Love,No Education,104485,Muslim,Rural,High,0,No
+MD1179,35,23,Arranged,Postgraduate,27092,Muslim,Rural,High,4,No
+MD1180,17,29,Arranged,No Education,136562,Other,Urban,High,2,No
+MD1181,34,19,Arranged,No Education,8729,Sikh,Rural,High,0,No
+MD1182,9,24,Arranged,Secondary,142046,Christian,Rural,Low,4,No
+MD1183,26,33,Love,Graduate,123222,Sikh,Rural,Low,4,No
+MD1184,2,20,Arranged,No Education,90216,Jain,Rural,Low,3,No
+MD1185,9,30,Love,Secondary,88860,Hindu,Rural,Moderate,0,No
+MD1186,9,20,Arranged,Primary,101870,Christian,Rural,Moderate,2,Yes
+MD1187,17,28,Love,Secondary,26398,Hindu,Rural,High,2,No
+MD1188,1,25,Love,Secondary,39650,Other,Urban,Moderate,0,No
+MD1189,25,23,Love,Secondary,157364,Jain,Urban,Low,0,No
+MD1190,25,18,Love,No Education,108889,Other,Rural,High,1,No
+MD1191,39,18,Arranged,No Education,8159,Jain,Rural,High,3,No
+MD1192,35,25,Arranged,Primary,103162,Hindu,Rural,Moderate,0,Yes
+MD1193,3,22,Love,Postgraduate,198838,Hindu,Urban,High,0,Yes
+MD1194,37,33,Arranged,Postgraduate,107834,Hindu,Urban,Moderate,1,No
+MD1195,30,28,Arranged,Postgraduate,153137,Jain,Rural,Moderate,1,No
+MD1196,38,22,Love,Primary,26638,Muslim,Urban,High,4,No
+MD1197,34,21,Arranged,Postgraduate,6073,Hindu,Rural,Moderate,2,No
+MD1198,12,23,Arranged,Postgraduate,182583,Other,Rural,Moderate,3,Yes
+MD1199,19,31,Arranged,Secondary,34320,Christian,Rural,Moderate,4,No
+MD1200,37,26,Love,No Education,39924,Jain,Rural,Moderate,0,No
