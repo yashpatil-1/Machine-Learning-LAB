@@ -1,7 +1,6 @@
 # 🤖 Machine Learning (ML) Experiments
 
 ## 🚀 Overview
-This repository contains a series of **Machine Learning (ML) experiments** performed as part of academic coursework. The experiments explore various ML concepts, implementations, and evaluations using **Jupyter Notebooks and reports**. Below is a summary of the tasks covered in these experiments.
 This repository contains a series of **Machine Learning (ML) experiments** performed as part of academic coursework. The experiments explore various ML concepts, implementations, and evaluations using **Jupyter Notebooks and reports**.
 
 ## 📂 Project Structure
@@ -70,6 +69,9 @@ The repository includes the following files:
 - **ML Graphs Exp 3.pdf** – Graphs for Experiment 3
 - **A176_ML-Lab3.pdf** – Lab 3 Documentation
 - **A176_Yash_Patil_ML_Exp5.pdf** – Report for Experiment 5
+
+### 📂 Datasets
+All datasets required for the experiments are stored in the `dataset` folder.
 
 ## 🛠️ Technologies Used
 - **Python** 🐍
