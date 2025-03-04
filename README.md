@@ -129,7 +129,10 @@ All datasets required for the experiments are stored in the `dataset` folder.
 4. Navigate to the desired `.ipynb` file and run the cells.
 
 ## 📸 Screenshots / Graphs
-*(Add images or plots from experiments if needed)*
+
+![alt text](<Screenshot 2025-01-21 103730.png>)
+
+![alt text](<Screenshot 2025-01-21 103756.png>)
 
 ## 🤝 Contributing
 Feel free to fork this repository, improve implementations, and submit pull requests.
