@@ -8,7 +8,7 @@ This repository contains a series of **Machine Learning (ML) experiments** perfo
 
 ### 🔍 Experiments Overview
 1. **Python Libraries & Data Handling**
-   - Study of Python packages: NumPy, Pandas, Matplotlib
+   - Study of Python packages: NumPy, Pandas, Matplotlib.
    - Perform Exploratory Data Analysis (EDA) on real-world datasets
    - Read different types of data files (CSV, Excel, Text, etc.)
    - Obtain metadata of a dataset
